@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Peter Fuleky"
+  site-url: "https://efuleky27.github.io/website/"
+  repo-url: "https://github.com/efuleky27/website"
   google-analytics: "G-2H4NNSECCS"
   # favicon: file/path/to/image.png # NOTE: that the `favicon` is a `website` level option (not under `navbar`)
   navbar:

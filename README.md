@@ -3,7 +3,7 @@
 Built with [Quarto](https://quarto.org) using the Cosmo base theme plus a custom SCSS overlay in `styles/styles.scss`. The site generates into `docs/` for GitHub Pages.
 
 ## Live Site
-https://fuleky.github.io/website/
+https://efuleky27.github.io/website/
 
 ## Content & Navigation
 
