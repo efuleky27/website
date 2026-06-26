@@ -4,11 +4,11 @@ format:
   html:
     toc: true
   pdf:
-    author: Peter Fuleky
+    author: Emma Fuleky
     pdf-engine: weasyprint
 format-links: [pdf]
 css: styles/cv.css
-updated: "Mar 11, 2025"
+updated: "June 26, 2026"
 header-includes:
   - |
     <style>
@@ -16,9 +16,8 @@ header-includes:
     </style>
 ---
 
-::: {.print-only .contact-block}
-508 Saunders Hall, 2424 Maile Way, Honolulu, HI 96822  
-fuleky@hawaii.edu · 808-956-7840 · http://www2.hawaii.edu/~fuleky/  
+::: {.print-only .contact-block} 
+Cell: +1 (808) 807-8383 · Email: efuleky27@punahou.edu
 :::
 
 ::: {.no-print .contact-block}
@@ -28,294 +27,90 @@ fuleky@hawaii.edu · 808-956-7840 · http://www2.hawaii.edu/~fuleky/
 ::: {.no-print .contact-block}
 ### Contact
 
-**Peter Fuleky**  
-UHERO and Department of Economics, University of Hawaiʻi at Mānoa  
-508 Saunders Hall, 2424 Maile Way, Honolulu, HI 96822  
-[fuleky@hawaii.edu](mailto:fuleky@hawaii.edu) · 808-956-7840 · [http://www2.hawaii.edu/~fuleky/](http://www2.hawaii.edu/~fuleky/)  
+**Emma Fuleky**  
+Punahou School, Honolulu, HI  
+Cell: +1 (808) 807-8383 · [efuleky27@punahou.edu](mailto:efuleky27@punahou.edu)
 :::
 
 ### Education
 
-- **Ph.D. in Economics** [2009]{.cvdate}  
-  - University of Washington  
-  - Dissertation: *Indirect Estimation Methods for Continuous Time Models of the Interest Rate*  
-  - Fields of concentration: Econometrics, Time Series Analysis
+- **Punahou School, Honolulu, HI** [Expected June 2027]{.cvdate}
+  - High School Diploma
+  - GPA: 3.95/4
+  - 8 Honors Classes
+  - 8 AP Classes
 
-- **M.B.A.** [2002]{.cvdate}  
-  - Florida State University  
-  - Field of concentration: Finance
+### Awards
 
-- **M.S. in Civil Engineering** [1997]{.cvdate}  
-  - Czech Technical University  
-  - Thesis: *Numerical Analysis of Bridge Dynamics Using the Finite Element Method*  
-  - Studied at the Vienna University of Technology (Austria), 1995–96
+- **2026**
+  - International Science and Engineering Fair (ISEF) affiliated awards:
+    - District: Yale Science and Engineering Award
+    - State: 1st place in Physics and Astronomy Category; NASA Earth System Science Award; Hawaii Astronomical Society Award; Overall top 12 project out of more than 100 projects
+    - International: ISEF 2026 Finalist in Phoenix, Arizona; New American University Merit Scholarship Award from Arizona State University; Finalist for Society of Science Alumni special award
+  - Best Delegate at International Model UN conference
+  - National Honors Society, completed 150 hours of community work
 
-### Professional Experience
+- **2025**
+  - Excellent Punahou Student award in Chemistry Honors
+  - Outstanding Punahou Student award in AP Chemistry and AP Physics 1 & 2
 
-- **Professor** [2023 --- present]{.cvdate}  
-  - UHERO and Department of Economics, University of Hawaiʻi at Mānoa
+- **2024**
+  - Outstanding Punahou Student award in Biology Honors
+  - 1st Place Award in Beginning Public Forum
 
-- **Fulbright Scholar** [2024]{.cvdate}  
-  - Corvinus Institute for Advanced Studies, Budapest, Hungary
+### Activities and Leadership
 
-- **Associate Professor** [2016 --- 2023]{.cvdate}  
-  - UHERO and Department of Economics, University of Hawaiʻi at Mānoa
+- **Science**
+  - Founder and Leader, Punahou Research and Science Club [2025 — present]{.cvdate}
+  - Established the first research club at Punahou to introduce students to the scientific method and research process
+  - Invited and hosted professors from the University of Hawaiʻi to speak about their research and professions
+  - Mentored students through the scientific research process and helped them qualify for state and international science fairs
 
-- **Visiting Researcher** [2017 --- 2018]{.cvdate}  
-  - Central European University, Budapest, Hungary
+- **Astronomy**
+  - Co-President, Punahou Astronomy Club [2024 — present]{.cvdate}
+  - Organized star and planet observation parties
+  - Held presentations on the Solar System, comets and meteorites, the lunar landing, and telescope parts
+  - Initiated astronomy-related projects, built and coded a radio telescope, and organized community outreach at museums
 
-- **Assistant Professor** [2011 --- 2016]{.cvdate}  
-  - UHERO and Department of Economics, University of Hawaiʻi at Mānoa
+- **Communication and Debate**
+  - Member, Punahou Debate Team [2023 — present]{.cvdate}
+  - Participated in 10 tournaments at county and state level and qualified to state championship twice
+  - Member, Punahou Model UN [2023 — present]{.cvdate}
+  - Participated in beginner and advanced committees on worldwide issues including world peace, climate change, and pandemic-related challenges
 
-- **Postdoctoral Fellow** [2010 --- 2011]{.cvdate}  
-  - University of Hawaiʻi Economic Research Organization (UHERO)
+- **Fundraising and Community Service**
+  - Food Division Head, Punahou Carnival [2025 — 2026]{.cvdate}
+  - Led and trained 130 students across 13 food booths, managed shifts and supplies, and contributed more than 200 hours of leadership experience
+  - Punahou Student Ambassador [2021 — present]{.cvdate}
+  - Guided new families through Punahou and contributed more than 50 hours of community service
+  - Hawaii Hungarian School Association [2013 — present]{.cvdate}
+  - Contributed more than 400 hours of leadership experience as a camp counselor and language/cultural mentor
 
-- **Economist and Securities Trader** [2002 --- 2005]{.cvdate}  
-  - International Trading Group, Jacksonville, FL
+### Science Projects
 
-- **Management Consultant** [1998 --- 2000]{.cvdate}  
-  - Czipin & Partner, Prague, Czech Republic
+- **2025** — PBHs and Dark Matter: The Link Between the Early Universe and Modern Cosmology
+  - State Science Fair Finalist
+- **2026** — Disentangling the Cosmic Web: The Relationship Between Walls and Other Cosmic Structures
+  - Link: https://efuleky27.github.io/disperse/
+  - International Science and Engineering Fair Finalist
 
-### Teaching
+### Skills
 
-#### University of Hawaiʻi, Department of Economics
+- **Languages and Writing**
+  - Proficient in English and Hungarian (native speaker)
+  - Conversational proficiency in Spanish
+  - Persuasive writing and poetry
 
-- ECON 427 — Economic Forecasting (Fall 2011–16, 2018–19, 2021–23)
-- ECON 628 — Econometrics I (Spring 2013–17, 2019–22, 2024–25)
-- ECON 629 — Econometrics II (Fall 2010; co-instructor responsible for time series topics)
-- ECON 630 — Econometrics III (Fall 2020, Spring 2023)
+- **Soft Skills**
+  - Public speaking, communication, teamwork, leadership, organization, creativity, and working well under pressure
 
-#### University of Hawaiʻi, Shidler College of Business
+- **Programming**
+  - Python
 
-- FIN 652 — Programming in Finance (Fall 2009)
+### Athletics and Dance
 
-#### University of Washington, Department of Economics
-
-- ECON 300 — Intermediate Microeconomics (2007–09)
-- ECON 201 — Introduction to Macroeconomics (2006)
-- ECON 200 — Introduction to Microeconomics (2006)
-
-### Advising
-
-Max Hammermesh (Honors BA, 2011), William DuPont (PhD, 2013), Qianxue Zhao (PhD, 2014, Co-chair), Yi-wen Yang (PhD, 2017), Cheryl Geslani Scarton (PhD, 2017), Kyeongkuk Kim (PhD, 2018), Jonathan Sweeney (PhD, 2018), Oleg Ivanets (PhD, 2018), Jaeseong Lim (PhD, 2018), Nick Borum (MA, 2018), Sisi Zhang (MA, 2019), Samuel Ha (PhD, 2019), Nathaniel Lee (MA, 2020, Chair), Isabelle Picciotto (MA, 2020, Chair), Nathan DeMaagd (PhD, 2020), Joshua Hu (Honors BA, 2021), Rachel Inafuku (PhD, 2022), Mel Maya Ward (PhD, 2023), Minh D. Nguyen (PhD, 2023), Ian Rees (MA, 2023), Tonga Ahokovi (Honors BA, 2024), Joonwoo Lee (PhD, 2025), Tyler Wheeler (MA, 2025), Helen Hastedt (MA, current), Luke Miller (PhD, current), Sadichchha Shresta (PhD, current).
-
-### Refereed Journal Publications
-
-\* denotes advisee
-
-#. Truax, K., Dulai, H., Misra, A., Kuhne, W., Fuleky, P., Smith, C., Garces, M. (2023). *Laser-Induced Fluorescence for Monitoring Environmental Contamination and Stress in the Moss Thuidium plicatile.* **Plants**, 12(17), 3124. <https://doi.org/10.3390/plants12173124>
-#. Adyasari, D., Dimova, N., Dulai, H., Gilfedder, B., Cartwright, I., McKenzie, T., Fuleky, P. (2023). *Radon-222 as a groundwater discharge tracer to surface waters.* **Earth-Science Reviews**. <https://doi.org/10.1016/j.earscirev.2023.104321>
-#. Bond-Smith, S., and Fuleky, P. (2022). *The Effects of the Pandemic on Hawaii’s Economy.* **Current Issues in Tourism**. <https://doi.org/10.1080/13683500.2022.2151875>
-#. Truax, K., Dulai, H., Misra, A., Kuhne, W., Fuleky, P. (2022). *Quantifying Moss Response to Metal Contaminant Exposure Using Laser-Induced Fluorescence.* **Applied Sciences**, 12(22), 11580. <https://doi.org/10.3390/app122211580>
-#. DeMaagd, N.\*, Fuleky, P., Burnett, K., and Wada, C. (2022). *Tourism Water Use During the Covid-19 Shutdown, A Natural Experiment in Hawaii.* **Annals of Tourism Research**, 97(1), 103475. <https://doi.org/10.1016/j.annals.2022.103475>
-#. Fuleky, P., and Szapudi, I. (2022). *Bird’s Eye View of COVID-19, Mobility, and Labor Market Outcomes Across the US.* **Economics of Disasters and Climate Change**, 6, 339–353. <https://doi.org/10.1007/s41885-022-00110-0>
-#. McKenzie, T., Dulai, H., and Fuleky, P. (2021). *Traditional and novel time-series approaches reveal submarine groundwater discharge dynamics under baseline and extreme event conditions.* **Scientific Reports**, 11, 22570. <https://doi.org/10.1038/s41598-021-01920-0>
-#. Fuleky, P. (2021). *Nowcasting the Trajectory of the COVID-19 Recovery.* **Applied Economics Letters**, 29(11), 1037–1041. <https://doi.org/10.1080/13504851.2021.1907278>
-#. Fuleky, P., Ventura, L., and Zhao, Q.\* (2018). *Common Correlated Effects and International Risk Sharing.* **International Finance**, 21(1), 55–70. <https://doi.org/10.1111/infi.12119>
-#. Hirashima, A.\*, Jones, J.\*, Bonham, C. S., and Fuleky, P. (2017). *Forecasting in a Mixed Up World: Nowcasting Hawaii Tourism.* **Annals of Tourism Research**, 63(1), 191–202. <https://doi.org/10.1016/j.annals.2017.01.007>  
-    - The paper received the Polzin Prize for Best Paper at the fall 2016 AUBER conference.  
-    - Working paper title: *Nowcasting Tourism Industry Performance Using High Frequency Covariates.*
-#. Fuleky, P., and Ventura, L. (2016). *Mean Lag in General Error Correction Models.* **Economics Letters**, 143, 107–110. <https://doi.org/10.1016/j.econlet.2016.03.028>
-#. Fuleky, P., Ventura, L., and Zhao, Q.\* (2015). *International Risk Sharing in the Short and in the Long Run under Country Heterogeneity.* **International Journal of Finance and Economics**, 20(4), 374–384. <https://doi.org/10.1002/ijfe.1524>
-#. Fuleky, P., and Bonham, C. S. (2015). *Forecasting with Mixed Frequency Factor Models in the Presence of Common Trends.* **Macroeconomic Dynamics**, 19(4), 753–775. <https://doi.org/10.1017/S136510051300059X>
-#. Fuleky, P., and Zivot, E. (2014). *Indirect Inference Based on the Score.* **Econometrics Journal**, 17(3), 383–393. <https://doi.org/10.1111/ectj.12028>
-#. Fuleky, P., Zhao, Q.\*, and Bonham, C. S. (2014). *Estimating Demand Elasticities in Non-Stationary Panels.* **Annals of Tourism Research**, 44(1), 131–142. <https://doi.org/10.1016/j.annals.2013.09.006>
-#. Fuleky, P. (2012). *On the Choice of the Unit Period in Time Series Models.* **Applied Economics Letters**, 19(12), 1179–1182. <https://doi.org/10.1080/13504851.2011.617685>
-
-### Books and Chapters
-
-#. Fuleky, P. (Ed.). (2020). *Macroeconomic Forecasting in the Era of Big Data: Theory and Practice.* Springer. <https://doi.org/10.1007/978-3-030-31150-6>
-#. Doz, C., and Fuleky, P. (2020). *Dynamic Factor Models.* In: Fuleky, P. (Ed.), *Macroeconomic Forecasting in the Era of Big Data* (pp. 27–64). Springer. <https://doi.org/10.1007/978-3-030-31150-6_2>
-
-### Scholarly Work in Progress
-
-#. Coincident Index of Economic Conditions in Hawaii
-#. Estimating Permitting Delays (with Isabelle Picciotto\*)
-#. Real-Time Benchmarking of Non-farm Payrolls
-#. Forecasting Multi-Equation Behavioral Models with R (book)
-#. Rainfall, Fire Risk and Housing Prices in Hawaii (with Talal Khan\*, Nori Tarui and Makena Coffman), submitted to *Journal of Environmental Economics and Management*
-#. Forecast Scenarios Under Climate Change
-
-### UHERO Forecast Reports
-
-- Federal cuts raise risk of Hawaii downturn [Feb 2025]{.cvdate}
-- Outlook more uncertain as federal policy changes loom [Dec 2024]{.cvdate}
-- Lagging Maui recovery, slower speed limit for Hawaii growth [Sep 2024]{.cvdate}
-- Expansion intact, but counties poised for slower growth [May 2024]{.cvdate}
-- Near-term slowing expected as pandemic recovery ends [Feb 2024]{.cvdate}
-- State facing headwinds as Maui recovery begins [Dec 2023]{.cvdate}
-- Wildfires deliver heavy blow to Maui economy [Sep 2023]{.cvdate}
-- Promise and Peril for the Hawaii Economy [May 2023]{.cvdate}
-- Hawaii’s Soft Landing Still in the Cards [Mar 2023]{.cvdate}
-- Global war on inflation will hinder Hawaii growth [Dec 2022]{.cvdate}
-- US recession will weigh on Hawaii’s recovery [Sep 2022]{.cvdate}
-- Foreign visitors will provide lift, but risks have multiplied [May 2022]{.cvdate}
-- With Omicron in the rearview mirror, a clearer road ahead? [Mar 2022]{.cvdate}
-- Recovery resumes, but Omicron looms [Dec 2021]{.cvdate}
-- Delta wave swamps tourism, but return to recovery expected [Sep 2021]{.cvdate}
-- Vaccinations and US Strength Drive Upgraded Hawaii Forecast [May 2021]{.cvdate}
-- More Substantial Recovery in Sight [Feb 2021]{.cvdate}
-- Mainland COVID-19 surge means a bleak winter, but vaccines promise 2021 growth [Dec 2020]{.cvdate}
-- State Forecast Update: Hawaii in Early Stages of Recovery, Then a Setback [Sep 2020]{.cvdate}
-- Forecast with Scenario Analysis: Battered by COVID-19, Hawaii Begins to Reopen [May 2020]{.cvdate}
-- Interim Forecast Update: Hawaii’s Economy is Shut Down to Deal with COVID-19 [Mar 2020]{.cvdate}
-- Interim Forecast Update: COVID-19 Will Impose Significant Economic Impacts in Hawaii [Mar 2020]{.cvdate}
-- State Forecast Update: Coronavirus Presents Danger to Hawaii Tourism [Feb 2020]{.cvdate}
-- Annual Hawaii Forecast: After a Cloudy 2019, New Year Looks a Bit Brighter [Dec 2019]{.cvdate}
-- Hawaii Construction Forecast: Planned Projects Support Healthy Construction Outlook [Oct 2019]{.cvdate}
-- State Forecast Update: Already Weak, Hawaii’s Prospects Look Increasingly Dicey [Sep 2019]{.cvdate}
-- County Forecast: Counties see synchronized slowing [May 2019]{.cvdate}
-- State Forecast Update: Recent data confirm weaker growth [May 2019]{.cvdate}
-- State Forecast Update: Economy slows markedly. Is more in store? [Mar 2019]{.cvdate}
-- Annual Hawaii Forecast: Moderation Ahead as Business Cycle Matures [Dec 2018]{.cvdate}
-- Hawaii Construction Forecast: After Pullback, Construction Prospects Firm [Sep 2018]{.cvdate}
-- State Forecast Update: Hawaii's Growth Down, But Not Out [Sep 2018]{.cvdate}
-- County Forecast: Healthy County Economies Face Growing Pains [Jun 2018]{.cvdate}
-- State Forecast Update: Ready or Not, Hawaii is Set For More Growth [May 2018]{.cvdate}
-- State Forecast Update: Not Much Lift From Tax Cuts in Hawaii’s Soaring Economy [Mar 2018]{.cvdate}
-- Annual Hawaii Forecast: Hawaii’s Long Expansion Gets Global Economic Lift [Dec 2017]{.cvdate}
-- Hawaii Construction Forecast: Construction Easing, But More in the Pipeline [Sep 2017]{.cvdate}
-- State Forecast Update: Slowing Ongoing, Despite Arrivals Boom [Sep 2017]{.cvdate}
-- County Forecast: Economies Still Growing, But Slowing [May 2017]{.cvdate}
-- State Forecast Update: Growth Continues, For Now [May 2017]{.cvdate}
-- State Forecast Update: As Growth Ebbs, Risks Swell [Mar 2017]{.cvdate}
-- Annual Hawaii Forecast: Healthy Economy Faces New Administration Risks [Dec 2016]{.cvdate}
-- Hawaii Construction Forecast: Building Cycle Approaches Peak [Sep 2016]{.cvdate}
-- State Forecast Update: Hawaii Growth Downshifting [Sep 2016]{.cvdate}
-- County Forecast: Counties Share Positive Outlook, But Face Individual Challenges [May 2016]{.cvdate}
-- State Forecast Update: Growing in a Riskier World [Feb 2016]{.cvdate}
-- Annual Hawaii Forecast: Expansion Will Continue, Despite Global Challenges [Dec 2015]{.cvdate}
-- State Forecast Update: Except for Weather, Outlook Shines [Sep 2015]{.cvdate}
-- County Forecast: Neighbor Island Tourism Still Has Room to Grow [Jun 2015]{.cvdate}
-- Hawaii Construction Forecast: Construction Building Up [Mar 2015]{.cvdate}
-- State Forecast Update: Hawaii on Steady Course for 2015 [Feb 2015]{.cvdate}
-- Asia-Pacific Forecast: Moderate Regional Growth Faces Rising Risks [Dec 2014]{.cvdate}
-- State Forecast Update: Hawaii’s Economy In Need of An Engine [Oct 2014]{.cvdate}
-- Annual Hawaii Forecast: Hawaii Growth Slows As Global Risks Rise [Aug 2014]{.cvdate}
-- County Forecast: Despite Lull in Tourism, County Expansions Continue [May 2014]{.cvdate}
-- Hawaii Construction Forecast: Construction Upturn on Track [Mar 2014]{.cvdate}
-- State Forecast Update: After Austerity, Road Ahead Will Be Smoother [Feb 2014]{.cvdate}
-- Asia-Pacific Forecast: Pacific Rim Will Edge Forward After Weak 2013 [Dec 2013]{.cvdate}
-- State Forecast Update: No Shutdown For Hawaii Growth [Oct 2013]{.cvdate}
-- Annual Hawaii Forecast: Expansion to Strengthen Despite Washington Worries [Aug 2013]{.cvdate}
-- County Forecast: Growth Accelerates Statewide [May 2013]{.cvdate}
-- Hawaii Construction Forecast: Construction Upswing Picks Up Speed [Mar 2013]{.cvdate}
-- State Forecast Update: Expansion Shifts Into Higher Gear [Feb 2013]{.cvdate}
-- Asia-Pacific Forecast: Developing Countries Buoy Asian Growth [Dec 2012]{.cvdate}
-- State Forecast Update: Tourism Shines, Construction Clouds Lifting [Nov 2012]{.cvdate}
-- Annual Hawaii Forecast: Tourism Hot, But Broader Growth Still Elusive [Jul 2012]{.cvdate}
-- County Forecast: Jobs Still Lag in County Recoveries [May 2012]{.cvdate}
-- State Forecast Update: Visitor Industry Still Leading Recovery [May 2012]{.cvdate}
-- Hawaii Construction Forecast: Construction Edging Toward Recovery [Mar 2012]{.cvdate}
-- State Forecast Update: Some Improvement, After Disappointing 2011 [Feb 2012]{.cvdate}
-- Asia-Pacific Forecast: Hawaii in the Asia-Pacific Century [Dec 2011]{.cvdate}
-- State Forecast Update: Hawaii in Pause Mode [Nov 2011]{.cvdate}
-- Annual Hawaii Forecast: With Hawaii Growth Slow, US Risk Looms Large [Sep 2011]{.cvdate}
-- County Forecast: Uneven Recovery Continues [May 2011]{.cvdate}
-- State Forecast Update: Japanese Quake Won't Derail Recovery [May 2011]{.cvdate}
-- State Forecast Update: Rail Will Add to Momentum [Feb 2011]{.cvdate}
-- Construction Forecast: Rail Construction Will Spur Industry Pick-Up [Feb 2011]{.cvdate}
-- State Forecast Update: Hawaii's Two-Speed Recovery [Dec 2010]{.cvdate}
-- Global Economic Forecast: World Recovery Falters [Dec 2010]{.cvdate}
-- State Forecast Update: Strong Summer for Tourism [Oct 2010]{.cvdate}
-- Construction Forecast: Construction Begins to Stabilize [Sep 2010]{.cvdate}
-- County Economic Forecast: Counties Begin Recovery After Record Downturn [Jun 2010]{.cvdate}
-- Annual Hawaii Economic Forecast: Hawaii Recovery Takes Hold [Mar 2010]{.cvdate}
-
-### UHERO Briefs and Blogs
-
-- After the Maui wildfires: The road ahead [Aug 2023]{.cvdate}
-- Tourism water use during the COVID-19 shutdown [Sep 2022]{.cvdate}
-- COVID-19 infections, vaccines, and economic recovery [Apr 2021]{.cvdate}
-- Estimating economic conditions during the COVID-19 crisis [Oct 2020]{.cvdate}
-- Nowcasting the Trajectory of the COVID-19 Recovery [Sep 2020]{.cvdate}
-- Multipliers and the effectiveness of government policies [Jun 2020]{.cvdate}
-- COVID-19: Developing Economic Recovery Scenarios for Hawaii [May 2020]{.cvdate}
-- The Agony of Restaurant Workers [Mar 2020]{.cvdate}
-- Little relief from Hawaii’s high cost of living [Jan 2020]{.cvdate}
-- Tariff Peril [May 2019]{.cvdate}
-- Benchmarking for a clearer employment picture [Feb 2019]{.cvdate}
-- Is Fed Liftoff a Big Deal? [Dec 2015]{.cvdate}
-- Gauging Home Affordability: The Challenge [Dec 2015]{.cvdate}
-- Are We in a Low-Growth World? [Jan 2015]{.cvdate}
-- Flying to Hawaii: Comparing the Cost and Frequency Across States [Dec 2014]{.cvdate}
-- Now and Later: The Impact of the Government Shutdown [Oct 2013]{.cvdate}
-- Are lodging costs starting to tame the tourist boom? [May 2013]{.cvdate}
-- Latest Jobs Report Suggests Most Industries Recovering [Apr 2013]{.cvdate}
-- Benchmark Revision of Non-Farm Payrolls [Apr 2013]{.cvdate}
-- An Update on Inflation Expectations [Mar 2013]{.cvdate}
-- Airlines Bet Big On Hawaii With 275,000 Additional Seats [Mar 2013]{.cvdate}
-- Details of the Fiscal Cliff Deal [Jan 2013]{.cvdate}
-- It’s the Economy, Stupid! (Or Is It?) [Aug 2012]{.cvdate}
-- Some Perspectives on Another Weak Employment Report [May 2012]{.cvdate}
-- Hawaii’s unemployment rate revised up for 2009–2011 [Mar 2012]{.cvdate}
-- Oil Prices and Hawaii Travel [Sep 2011]{.cvdate}
-- The Lag in Employment Recovery [Jun 2011]{.cvdate}
-
-### Grants
-
-#. Hawaiian Electric Companies: Custom Regional Economic Forecasting and Consulting Services. PI: P. Fuleky, CI: C. Bonham. Funding period: Jul 2023 – Jun 2026, $236,034.
-#. UH Sea Grant (NOAA): Economic impacts of severe weather events. PI: P. Fuleky, CI: M. Coffman, V. Keener, N. Tarui. Funding period: Feb 2022 – Jan 2024, $145,684.
-#. Hawaiian Electric Companies: Custom Regional Economic Forecasting and Consulting Services. PI: P. Fuleky, CI: C. Bonham. Funding period: Jul 2020 – Jun 2023, $217,475.
-#. Hawaiian Electric Companies: Custom Regional Economic Forecasting and Consulting Services. PI: P. Fuleky, CI: C. Bonham. Funding period: Jul 2017 – Jun 2020, $212,603.
-#. UH Sea Grant (NOAA): Economic Activity, Technological Progress, and Water Resource Utilization on Oahu. PI: P. Fuleky, CI: K. Burnett. Funding period: Feb 2018 – Jan 2020, $48,056.
-#. Hawaiian Electric Companies: Custom Regional Economic Forecasting and Consulting Services. PI: C. Bonham, CI: P. Fuleky. Funding period: Jul 2014 – Jun 2017, $204,313.
-#. UH Sea Grant (NOAA): Groundwater-Derived Nutrient Uptake in Coastal Ecosystems as a Driver of Shifts in the Accretion-Erosion Balance. PI: H. Dulai, CI: P. Fuleky. Funding period: Feb 2014 – Jan 2016, $92,150.
-
-### Conferences and Seminars
-
-- Corvinus Institute for Advanced Studies, Budapest [2024]{.cvdate}
-- Hungarian Academy of Sciences, Budapest [2024]{.cvdate}
-- Western Regional Science Association 62nd Annual Meeting, Hawaii [2023]{.cvdate}
-- 7th Annual International Conference on Applied Economics, Kobe University (Online) [2022]{.cvdate}
-- Hawaii Economic Association Annual Conference, Honolulu (Invited) [2022]{.cvdate}
-- Hawaii Economic Association Annual Conference, Honolulu (Invited) [2021]{.cvdate}
-- Western Regional Science Association 60th Annual Meeting, Virtual/Online [2021]{.cvdate}
-- One World Symposium 2020 — Bernoulli Society and Institute of Mathematical Statistics (Moderator) [2020]{.cvdate}
-- Hawaii Economic Association Annual Conference, Honolulu (Invited) [2019]{.cvdate}
-- Association for University Business and Economic Research, Salt Lake City, UT [2018]{.cvdate}
-- Hawaii Economic Association Annual Conference, Honolulu (Invited) [2018]{.cvdate}
-- Bank of Thailand, Bangkok [2017]{.cvdate}
-- Corvinus University, Budapest [2017]{.cvdate}
-- Hungarian Academy of Sciences, Budapest [2017]{.cvdate}
-- Hawaii Economic Association Annual Conference, Honolulu (Invited) [2016]{.cvdate}
-- 6th International Conference on Tourism, Naples, Italy [2016]{.cvdate}
-- Western Regional Science Association 55th Annual Meeting, Hawaii (Invited) [2016]{.cvdate}
-- Hawaii Economic Association Annual Conference, Honolulu (Invited) [2015]{.cvdate}
-- 21st International Panel Data Conference, Budapest [2015]{.cvdate}
-- University of Hawaiʻi at Mānoa, Honolulu [2015]{.cvdate}
-- Hawaii Economic Association Annual Conference, Honolulu (Invited) [2014]{.cvdate}
-- Society for the Study of Emerging Markets EuroConference, Budapest [2014]{.cvdate}
-- International Association for Applied Econometrics Annual Conference, London [2014]{.cvdate}
-- Society for Nonlinear Dynamics and Econometrics 22nd Annual Symposium, New York [2014]{.cvdate}
-- Western Economic Association International 88th Annual Conference, Seattle [2013]{.cvdate}
-- Association for University Business and Economic Research, Honolulu [2012]{.cvdate}
-- 32nd International Symposium on Forecasting, Boston [2012]{.cvdate}
-- Conference in Honor of Charles Nelson, University of Washington, Seattle (Invited) [2012]{.cvdate}
-- Western Regional Science Association 51st Annual Meeting, Kauai [2012]{.cvdate}
-- University of Hawaiʻi at Mānoa, Honolulu [2011]{.cvdate}
-- Western Economic Association International 85th Annual Conference, Vancouver [2009]{.cvdate}
-- University of Washington, Seattle [2009]{.cvdate}
-- University of Hawaiʻi at Mānoa, Honolulu [2009]{.cvdate}
-
-### Outreach and Media
-
-#### Invited presentations
-
-Western Regional Science Association; CFA Society of Hawaii; Japan-America Institute of Management Science; Bank of Hawaii; Civil Beat (webinar); Hawaii Sea Grant (podcast); Hawaii Tourism Authority; Hawaii Coffee Company; Hawaii Economic Association; Research Corporation of the University of Hawaii; Honolulu Board of Realtors; Association of Pacific Ports; Department of Human Services; Manoa Elementary School; Kamehameha Schools.
-
-#### Ad hoc economic analysis
-
-Hawaii Public Radio; Honolulu Star Advertiser; Pacific Business News; KHON2; KITV; Construction Preview; Hawaii Business Magazine; Kaleo; West Hawaii Today; Travel Weekly; Civil Beat; Tennessean; National Park Service; Economic Recovery Forum of the Federal Emergency Management Agency; Hawaii Pandemic Applied Modeling; Newsweek Magazine.
-
-### Work of General Interest Published Online
-
-- Slides for the textbook *Forecasting: Principles and Practice* by Hyndman and Athanasopoulos [2014]{.cvdate}
-- Option Pricing with S+ FinMetrics (Technical Report) [2007]{.cvdate}
-- Anatomy of Cobb-Douglas Type Production/Utility Functions in Three Dimensions (Mimeo) [2006]{.cvdate}
-- Anatomy of CES Type Production/Utility Functions in Three Dimensions (Mimeo) [2006]{.cvdate}
-
-### Referee
+- Open Water Swimming: regular participant in Waikiki Swim Club and biathlon races, Waikiki Roughwater Swim, and the Crossing of Lake Balaton, Hungary
+- Dance: regular stage performances with the Punahou ballet and jazz ballet ensembles
 
 The Review of Economics and Statistics; Journal of International Money and Finance; Journal of Banking and Finance; Journal of Money, Credit and Banking; Studies in Nonlinear Dynamics and Econometrics; Journal of Environmental Economics and Management; Journal of the Association of Environmental and Resource Economists; Asian Economic Journal; Annals of Tourism Research; Tourism Analysis; Czech Journal of Economics and Finance; Emerging Markets Finance and Trade; Contemporary Economic Policy; Applied Economics; Journal of Policy Research in Tourism, Leisure and Events; International Economics; Economic Modelling; Empirical Economics; Emerging Markets Review; Economics of Education Review; Humanities and Social Sciences Communications; The Economic Record; Environmental Monitoring and Assessment.
 
