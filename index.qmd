@@ -1,5 +1,5 @@
 ---
-title: "Peter Fuleky"
+title: "Emma Fuleky"
 about:
   template: jolla
   image: assets/images/profile.jpg
@@ -16,13 +16,7 @@ format:
 ---
 
 **Contact:**  
-2424 Maile Way  
-508 Saunders Hall  
-University of Hawaii at Manoa  
-Honolulu, HI 96822  
-USA  
-Email: fuleky@hawaii.edu  
-Tel: (808) 956-7840
+Email: efuleky27@punahou.edu
 
 
 
@@ -37,7 +31,7 @@ Tel: (808) 956-7840
 ![Peter Fuleky portrait](assets/images/pic.jpg){.home-portrait}
 :::
 
-# Peter Fuleky
+# Emma Fuleky
 
 Professor  
 [UHERO](http://www.uhero.hawaii.edu/) and [Department of Economics](http://www.economics.hawaii.edu/)  
