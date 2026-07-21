@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Peter Fuleky</title>
+<title>Photos – Peter Fuleky</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -35,6 +35,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b651517ce65839d647a86e2780455cfb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -78,6 +79,7 @@ gtag('config', 'G-2H4NNSECCS', { 'anonymize_ip': true});
 </script>
 
 
+<link rel="stylesheet" href="styles/photos.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -100,7 +102,7 @@ gtag('config', 'G-2H4NNSECCS', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -116,7 +118,7 @@ gtag('config', 'G-2H4NNSECCS', { 'anonymize_ip': true});
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./photos.html"> 
+    <a class="nav-link active" href="./photos.html" aria-current="page"> 
 <span class="menu-text">Photos</span></a>
   </li>  
   <li class="nav-item">
@@ -136,64 +138,281 @@ gtag('config', 'G-2H4NNSECCS', { 'anonymize_ip': true});
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-jolla column-page">
-  <img src="assets/images/profile.jpg" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
+<main class="content column-page" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Peter Fuleky</h1>
+<h1 class="title">Photos</h1>
 </div>
+
+
+
 <div class="quarto-title-meta column-page">
+
+    
+  
+    
   </div>
-</header><main class="content column-page" id="quarto-document-content">
-<p><strong>Contact:</strong><br>
-2424 Maile Way<br>
-508 Saunders Hall<br>
-University of Hawaii at Manoa<br>
-Honolulu, HI 96822<br>
-USA<br>
-Email: fuleky@hawaii.edu<br>
-Tel: (808) 956-7840</p>
-<!-- 
-::: {.home-container}
-::: {.home-top}
-::: {.home-right}
-[![Macroeconomic Forecasting book cover](assets/images/978-3-030-31150-6.jpg){.home-book}](https://link.springer.com/book/10.1007%2F978-3-030-31150-6)
-:::
-::: {.home-left}
-![Peter Fuleky portrait](assets/images/pic.jpg){.home-portrait}
-:::
-# Peter Fuleky
-Professor  
-[UHERO](http://www.uhero.hawaii.edu/) and [Department of Economics](http://www.economics.hawaii.edu/)  
-[Curriculum Vitae](fuleky_cv_quarto.pdf)  
-[Bio](bio.qmd)
-::: {.home-links}
-[**Papers/Research:** Econometrics, Time Series Analysis, Forecasting, Empirical Macroeconomics, Tourism Economics](papers.html)
-[**Book:** Macroeconomic Forecasting in the Era of Big Data](https://link.springer.com/book/10.1007%2F978-3-030-31150-6)
-**Teaching:**  
-[Economic Forecasting](econ427/econ427.html) · [Econometrics I](econ628/econ628.html) · [Anatomy of Production/Utility Functions in 3D](anatomy/anatomy.html)
-:::
-:::
-::: {.home-bottom}
-![University of Hawaii seal](assets/images/univer_seal.gif){.home-seal}
-**Office:**  
-2424 Maile Way  
-508 Saunders Hall  
-University of Hawaii at Manoa  
-Honolulu, HI 96822  
-USA  
-Email: fuleky@hawaii.edu  
-Tel: (808) 956-7840
-:::
-::: -->
+  
 
 
-</main>  
+</header>
+
+
+<!--
+  HOW TO ADD A PHOTO
+  1. Grab the camera/lens/exposure info BEFORE compressing — resizing
+     and converting to webp strips EXIF, so read it from the original
+     first (macOS Spotlight metadata):
+       mdls -name kMDItemModel -name kMDItemLensModel -name kMDItemFocalLength \
+            -name kMDItemFNumber -name kMDItemExposureTimeSeconds -name kMDItemISOSpeed your-photo.JPG
+  2. Resize the long edge to 2000px and convert to webp (keeps files
+     to a few hundred KB at most):
+       sips -Z 2000 your-photo.JPG --out /tmp/resized.jpg
+       cwebp -q 65 /tmp/resized.jpg -o assets/images/photos/your-photo.webp
+  3. Add a line below in the form (the trailing backslash puts the
+     exif info on its own line under the location/note; for a zoom
+     lens use the focal length actually shot at, not the lens range):
+       ![**Location** — brief note on the occasion.\
+       *Camera · Lens · focal length, shutter, f-stop, ISO*](assets/images/photos/your-photo.webp)
+-->
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_1455.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/2000s, f/6.3, ISO 1600</em></figcaption>
+</figure>
 </div>
- <!-- /main -->
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_1683.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 62mm, 1/125s, f/5.6, ISO 100</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_1695.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 150mm, 1/160s, f/6.3, ISO 125</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_2442.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 52mm, 1/640s, f/5.6, ISO 100</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_2496.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 50mm, 0.4s, f/18, ISO 100</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_2644.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 55mm, 1/1250s, f/5, ISO 160</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_2824.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 58mm, 1/800s, f/5, ISO 160</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_2828.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 55mm, 1/500s, f/5, ISO 160</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_2834.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 134mm, 1/500s, f/6.3, ISO 250</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_2991.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 129mm, 1/125s, f/6.3, ISO 100</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_3634.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 14-35mm f/4L · 27mm, 1/320s, f/4, ISO 100</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_4196.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 58mm, 1/4000s, f/6.3, ISO 6400</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_4251.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 123mm, 1/320s, f/6.3, ISO 100</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_4560.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 50mm, 1/1600s, f/5.6, ISO 200</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_4627.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 47mm, 1/3200s, f/5, ISO 200</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_4631.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 58mm, 1/2000s, f/5, ISO 200</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_4674.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/80s, f/6.3, ISO 200</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_4724.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 150mm, 1/320s, f/6.3, ISO 100</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_4906.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/1000s, f/6.3, ISO 320</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_4912.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/1250s, f/6.3, ISO 320</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_5080.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 94mm, 1/2500s, f/5.6, ISO 8000</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_5129.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/4000s, f/6.3, ISO 8000</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_5144.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/8000s, f/6.3, ISO 8000</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_5170.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 24mm, 1/5s, f/22, ISO 500</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_5427.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/2000s, f/6.3, ISO 640</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_5444.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/800s, f/6.3, ISO 1000</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_5447.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 140mm, 1/3200s, f/6.3, ISO 1000</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_5461.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/100s, f/6.3, ISO 100</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_5508.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 34mm, 1/250s, f/6.3, ISO 100</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_5602.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/5000s, f/6.3, ISO 2000</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_6085.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/50s, f/6.3, ISO 100</em></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/images/photos/ELF_6101.webp" class="img-fluid figure-img"></p>
+<figcaption><strong>[Location]</strong> — [occasion].<br>
+<em>Canon EOS R6 Mark II · EF 50mm f/1.8 · 50mm, 1/80s, f/1.8, ISO 3200</em></figcaption>
+</figure>
+</div>
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
