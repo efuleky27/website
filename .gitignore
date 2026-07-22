@@ -3,3 +3,4 @@
 quarto.deb
 
 **/*.quarto_ipynb
+**/.DS_Store

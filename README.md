@@ -12,6 +12,7 @@ https://efuleky27.github.io/website/
 - `research.qmd` — publications, books/chapters, work in progress, grants.
 - `teaching.qmd` — course descriptions.
 - `cv.qmd` — HTML CV with PDF download link (`cv.pdf`).
+- `photos.qmd` — photo gallery with location and EXIF captions (camera, lens, exposure). Images live in `assets/images/photos/`; see the comment at the top of `photos.qmd` for the resize/compress/caption steps for adding a new one.
 
 ## Local build
 

@@ -1,0 +1,122 @@
+---
+title: "Photos"
+page-layout: full
+format:
+  html:
+    toc: false
+css: styles/photos.css
+---
+
+<!--
+  HOW TO ADD A PHOTO
+  1. Grab the camera/lens/exposure info BEFORE compressing — resizing
+     and converting to webp strips EXIF, so read it from the original
+     first (macOS Spotlight metadata):
+       mdls -name kMDItemModel -name kMDItemLensModel -name kMDItemFocalLength \
+            -name kMDItemFNumber -name kMDItemExposureTimeSeconds -name kMDItemISOSpeed your-photo.JPG
+  2. Resize the long edge to 2000px and convert to webp (keeps files
+     to a few hundred KB at most):
+       sips -Z 2000 your-photo.JPG --out /tmp/resized.jpg
+       cwebp -q 65 /tmp/resized.jpg -o assets/images/photos/your-photo.webp
+  3. Add a line below in the form (the trailing backslash puts the
+     exif info on its own line under the location/note; for a zoom
+     lens use the focal length actually shot at, not the lens range):
+       ![**Location** — brief note on the occasion.\
+       *Camera · Lens · focal length, shutter, f-stop, ISO*](assets/images/photos/your-photo.webp)
+-->
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/2000s, f/6.3, ISO 1600*](assets/images/photos/ELF_1455.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 62mm, 1/125s, f/5.6, ISO 100*](assets/images/photos/ELF_1683.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 150mm, 1/160s, f/6.3, ISO 125*](assets/images/photos/ELF_1695.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 52mm, 1/640s, f/5.6, ISO 100*](assets/images/photos/ELF_2442.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 50mm, 0.4s, f/18, ISO 100*](assets/images/photos/ELF_2496.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 55mm, 1/1250s, f/5, ISO 160*](assets/images/photos/ELF_2644.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 58mm, 1/800s, f/5, ISO 160*](assets/images/photos/ELF_2824.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 55mm, 1/500s, f/5, ISO 160*](assets/images/photos/ELF_2828.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 134mm, 1/500s, f/6.3, ISO 250*](assets/images/photos/ELF_2834.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 129mm, 1/125s, f/6.3, ISO 100*](assets/images/photos/ELF_2991.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 14-35mm f/4L · 27mm, 1/320s, f/4, ISO 100*](assets/images/photos/ELF_3634.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 58mm, 1/4000s, f/6.3, ISO 6400*](assets/images/photos/ELF_4196.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 123mm, 1/320s, f/6.3, ISO 100*](assets/images/photos/ELF_4251.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 50mm, 1/1600s, f/5.6, ISO 200*](assets/images/photos/ELF_4560.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 47mm, 1/3200s, f/5, ISO 200*](assets/images/photos/ELF_4627.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 58mm, 1/2000s, f/5, ISO 200*](assets/images/photos/ELF_4631.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/80s, f/6.3, ISO 200*](assets/images/photos/ELF_4674.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 150mm, 1/320s, f/6.3, ISO 100*](assets/images/photos/ELF_4724.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/1000s, f/6.3, ISO 320*](assets/images/photos/ELF_4906.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/1250s, f/6.3, ISO 320*](assets/images/photos/ELF_4912.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 94mm, 1/2500s, f/5.6, ISO 8000*](assets/images/photos/ELF_5080.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/4000s, f/6.3, ISO 8000*](assets/images/photos/ELF_5129.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/8000s, f/6.3, ISO 8000*](assets/images/photos/ELF_5144.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 24mm, 1/5s, f/22, ISO 500*](assets/images/photos/ELF_5170.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/2000s, f/6.3, ISO 640*](assets/images/photos/ELF_5427.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/800s, f/6.3, ISO 1000*](assets/images/photos/ELF_5444.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 140mm, 1/3200s, f/6.3, ISO 1000*](assets/images/photos/ELF_5447.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/100s, f/6.3, ISO 100*](assets/images/photos/ELF_5461.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 34mm, 1/250s, f/6.3, ISO 100*](assets/images/photos/ELF_5508.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/5000s, f/6.3, ISO 2000*](assets/images/photos/ELF_5602.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · RF 24-240mm f/4-6.3 · 240mm, 1/50s, f/6.3, ISO 100*](assets/images/photos/ELF_6085.webp)
+
+![**[Location]** — [occasion].\
+*Canon EOS R6 Mark II · EF 50mm f/1.8 · 50mm, 1/80s, f/1.8, ISO 3200*](assets/images/photos/ELF_6101.webp)
