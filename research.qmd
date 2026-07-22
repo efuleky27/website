@@ -4,7 +4,7 @@ format:
   html:
     toc: true
 css: styles/cv.css
-updated: "Mar 11, 2025"
+updated: "July 22, 2026"
 header-includes:
   - |
     <style>
@@ -16,49 +16,13 @@ header-includes:
 *Updated: {{< meta updated >}}*
 :::
 
-### Refereed Journal Publications
+### Science Projects
+- **PBHs and Dark Matter:** The Link Between the Early Universe and Modern Cosmology [2025]{.cvdate}
+  - State Science Fair Finalist
 
-\* denotes advisee
 
-#. Truax, K., Dulai, H., Misra, A., Kuhne, W., Fuleky, P., Smith, C., Garces, M. (2023). *Laser-Induced Fluorescence for Monitoring Environmental Contamination and Stress in the Moss Thuidium plicatile.* **Plants**, 12(17), 3124. <https://doi.org/10.3390/plants12173124>
-#. Adyasari, D., Dimova, N., Dulai, H., Gilfedder, B., Cartwright, I., McKenzie, T., Fuleky, P. (2023). *Radon-222 as a groundwater discharge tracer to surface waters.* **Earth-Science Reviews**. <https://doi.org/10.1016/j.earscirev.2023.104321>
-#. Bond-Smith, S., and Fuleky, P. (2022). *The Effects of the Pandemic on Hawaii’s Economy.* **Current Issues in Tourism**. <https://doi.org/10.1080/13683500.2022.2151875>
-#. Truax, K., Dulai, H., Misra, A., Kuhne, W., Fuleky, P. (2022). *Quantifying Moss Response to Metal Contaminant Exposure Using Laser-Induced Fluorescence.* **Applied Sciences**, 12(22), 11580. <https://doi.org/10.3390/app122211580>
-#. DeMaagd, N.\*, Fuleky, P., Burnett, K., and Wada, C. (2022). *Tourism Water Use During the Covid-19 Shutdown, A Natural Experiment in Hawaii.* **Annals of Tourism Research**, 97(1), 103475. <https://doi.org/10.1016/j.annals.2022.103475>
-#. Fuleky, P., and Szapudi, I. (2022). *Bird’s Eye View of COVID-19, Mobility, and Labor Market Outcomes Across the US.* **Economics of Disasters and Climate Change**, 6, 339–353. <https://doi.org/10.1007/s41885-022-00110-0>
-#. McKenzie, T., Dulai, H., and Fuleky, P. (2021). *Traditional and novel time-series approaches reveal submarine groundwater discharge dynamics under baseline and extreme event conditions.* **Scientific Reports**, 11, 22570. <https://doi.org/10.1038/s41598-021-01920-0>
-#. Fuleky, P. (2021). *Nowcasting the Trajectory of the COVID-19 Recovery.* **Applied Economics Letters**, 29(11), 1037–1041. <https://doi.org/10.1080/13504851.2021.1907278>
-#. Fuleky, P., Ventura, L., and Zhao, Q.\* (2018). *Common Correlated Effects and International Risk Sharing.* **International Finance**, 21(1), 55–70. <https://doi.org/10.1111/infi.12119>
-#. Hirashima, A.\*, Jones, J.\*, Bonham, C. S., and Fuleky, P. (2017). *Forecasting in a Mixed Up World: Nowcasting Hawaii Tourism.* **Annals of Tourism Research**, 63(1), 191–202. <https://doi.org/10.1016/j.annals.2017.01.007>  
-    - The paper received the Polzin Prize for Best Paper at the fall 2016 AUBER conference.  
-    - Working paper title: *Nowcasting Tourism Industry Performance Using High Frequency Covariates.*
-#. Fuleky, P., and Ventura, L. (2016). *Mean Lag in General Error Correction Models.* **Economics Letters**, 143, 107–110. <https://doi.org/10.1016/j.econlet.2016.03.028>
-#. Fuleky, P., Ventura, L., and Zhao, Q.\* (2015). *International Risk Sharing in the Short and in the Long Run under Country Heterogeneity.* **International Journal of Finance and Economics**, 20(4), 374–384. <https://doi.org/10.1002/ijfe.1524>
-#. Fuleky, P., and Bonham, C. S. (2015). *Forecasting with Mixed Frequency Factor Models in the Presence of Common Trends.* **Macroeconomic Dynamics**, 19(4), 753–775. <https://doi.org/10.1017/S136510051300059X>
-#. Fuleky, P., and Zivot, E. (2014). *Indirect Inference Based on the Score.* **Econometrics Journal**, 17(3), 383–393. <https://doi.org/10.1111/ectj.12028>
-#. Fuleky, P., Zhao, Q.\*, and Bonham, C. S. (2014). *Estimating Demand Elasticities in Non-Stationary Panels.* **Annals of Tourism Research**, 44(1), 131–142. <https://doi.org/10.1016/j.annals.2013.09.006>
-#. Fuleky, P. (2012). *On the Choice of the Unit Period in Time Series Models.* **Applied Economics Letters**, 19(12), 1179–1182. <https://doi.org/10.1080/13504851.2011.617685>
-
-### Books and Chapters
-
-#. Fuleky, P. (Ed.). (2020). *Macroeconomic Forecasting in the Era of Big Data: Theory and Practice.* Springer. <https://doi.org/10.1007/978-3-030-31150-6>
-#. Doz, C., and Fuleky, P. (2020). *Dynamic Factor Models.* In: Fuleky, P. (Ed.), *Macroeconomic Forecasting in the Era of Big Data* (pp. 27–64). Springer. <https://doi.org/10.1007/978-3-030-31150-6_2>
-
-### Scholarly Work in Progress
-
-#. Coincident Index of Economic Conditions in Hawaii
-#. Estimating Permitting Delays (with Isabelle Picciotto\*)
-#. Real-Time Benchmarking of Non-farm Payrolls
-#. Forecasting Multi-Equation Behavioral Models with R (book)
-#. Rainfall, Fire Risk and Housing Prices in Hawaii (with Talal Khan\*, Nori Tarui and Makena Coffman), submitted to *Journal of Environmental Economics and Management*
-#. Forecast Scenarios Under Climate Change
-
-### Grants
-
-#. Hawaiian Electric Companies: Custom Regional Economic Forecasting and Consulting Services. PI: P. Fuleky, CI: C. Bonham. Funding period: Jul 2023 – Jun 2026, $236,034.
-#. UH Sea Grant (NOAA): Economic impacts of severe weather events. PI: P. Fuleky, CI: M. Coffman, V. Keener, N. Tarui. Funding period: Feb 2022 – Jan 2024, $145,684.
-#. Hawaiian Electric Companies: Custom Regional Economic Forecasting and Consulting Services. PI: P. Fuleky, CI: C. Bonham. Funding period: Jul 2020 – Jun 2023, $217,475.
-#. Hawaiian Electric Companies: Custom Regional Economic Forecasting and Consulting Services. PI: P. Fuleky, CI: C. Bonham. Funding period: Jul 2017 – Jun 2020, $212,603.
-#. UH Sea Grant (NOAA): Economic Activity, Technological Progress, and Water Resource Utilization on Oahu. PI: P. Fuleky, CI: K. Burnett. Funding period: Feb 2018 – Jan 2020, $48,056.
-#. Hawaiian Electric Companies: Custom Regional Economic Forecasting and Consulting Services. PI: C. Bonham, CI: P. Fuleky. Funding period: Jul 2014 – Jun 2017, $204,313.
-#. UH Sea Grant (NOAA): Groundwater-Derived Nutrient Uptake in Coastal Ecosystems as a Driver of Shifts in the Accretion-Erosion Balance. PI: H. Dulai, CI: P. Fuleky. Funding period: Feb 2014 – Jan 2016, $92,150.
+- **Disentangling the Cosmic Web:** The Relationship Between Walls and Other Cosmic Structures [2026]{.cvdate}
+  - Link: https://efuleky27.github.io/disperse/
+  - International Science and Engineering Fair Finalist
+  
+  
