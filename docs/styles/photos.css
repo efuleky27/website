@@ -1,0 +1,9 @@
+.quarto-figure {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.figure-img {
+  max-height: 68vh;
+  max-width: min(68vh, 100%);
+}

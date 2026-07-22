@@ -21,8 +21,10 @@ website:
       #   href: bio.qmd
       - text: Research
         href: research.qmd
-      # - text: Teaching
-      #   href: teaching.qmd
+      #- text: Teaching
+      #  href: teaching.qmd
+      - text: Photos
+        href: photos.qmd
       - text: CV
         href: cv.qmd
       # - href: file/path/to/myCV.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
