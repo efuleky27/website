@@ -20,9 +20,11 @@ header-includes:
 - **PBHs and Dark Matter:** The Link Between the Early Universe and Modern Cosmology [2025]{.cvdate}
   - State Science Fair Finalist
 
+![](assets/images/science%20posters/PBH_darkmatter.jpeg)
 
 - **Disentangling the Cosmic Web:** The Relationship Between Walls and Other Cosmic Structures [2026]{.cvdate}
   - Link: https://efuleky27.github.io/disperse/
   - International Science and Engineering Fair Finalist
-  
+
+![](assets/images/science%20posters/Cosmic_web.jpg)
   
