@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Peter Fuleky"
+  title: "Emma Fuleky"
   site-url: "https://efuleky27.github.io/website/"
   repo-url: "https://github.com/efuleky27/website"
   google-analytics: "G-2H4NNSECCS"

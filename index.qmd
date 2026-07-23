@@ -2,7 +2,7 @@
 title: "Emma Fuleky"
 about:
   template: jolla
-  image: assets/images/profile.jpg
+  image: assets/images/elf_pic.webp
   # links:
   #   - icon: twitter
   #     text: twitter
