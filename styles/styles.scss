@@ -4,6 +4,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 // Colors
+$color-primary: #EAD7DA; //(blush)
+$color-secondary: #824A55; //(rose)
+$color-tertiary: #7d7da1; //(lavender)
+$color-quaternary: #d6daff; //(iris)
+
 $dark-green: #003333ff;
 $light-blue: #cceeffff;
 $white_alpha: #ffffffdd;
@@ -30,14 +35,14 @@ $UHERO_light_red: #FF9191;
 
 // https://quarto.org/docs/output-formats/html-themes.html
 // Base document colors
-$navbar-bg: $UHERO_blue; // navbar
-$navbar-fg: $white_alpha; // navbar foreground elements
-$navbar-hl: $UHERO_orange; // highlight color when hovering over navbar links
-$body-bg: $dark_blue; // page background 
-$body-color: $white_alpha; // page text 
-$link-color: $UHERO_orange; // hyperlinks 
-$footer-bg: $UHERO_blue; // footer 
-$footer-fg: $white_alpha; // footer foreground elements
+$navbar-bg: $color-tertiary; // navbar
+$navbar-fg: $color-quaternary; // navbar foreground elements
+$navbar-hl: $color-primary; // highlight color when hovering over navbar links
+$body-bg: $color-primary; // page background 
+$body-color: $color-secondary; // page text 
+$link-color: $color-primary; // hyperlinks 
+$footer-bg: $color-tertiary; // footer 
+$footer-fg: $color-quaternary; // footer foreground elements
 
 // Fonts
 $font-family-sans-serif: 'Open Sans'; // base font family
