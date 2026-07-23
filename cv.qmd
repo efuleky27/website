@@ -8,7 +8,7 @@ format:
     pdf-engine: weasyprint
 format-links: [pdf]
 css: styles/cv.css
-updated: "June 26, 2026"
+updated: "July 23, 2026"
 header-includes:
   - |
     <style>
@@ -29,7 +29,7 @@ Cell: +1 (808) 807-8383 · Email: efuleky27@punahou.edu
 
 **Emma Fuleky**  
 Punahou School, Honolulu, HI  
-Cell: +1 (808) 807-8383 · 
+Cell: +1 (808) 807-8383  
 Email: [efuleky27@punahou.edu](mailto:efuleky27@punahou.edu); [emmafuleky@gmail.com](mailto:emmafuleky@gmail.com)
 :::
 
@@ -94,13 +94,14 @@ Email: [efuleky27@punahou.edu](mailto:efuleky27@punahou.edu); [emmafuleky@gmail.
   - Member, Hawaii Hungarian School Association [2013 — present]{.cvdate}
     - Contributed more than 200 hours of leadership experience as a camp counselor and language/cultural mentor
 
-### Science Projects
+<!-- ### Science Projects
 
 - **PBHs and Dark Matter:** The Link Between the Early Universe and Modern Cosmology [2025]{.cvdate}
   - State Science Fair Finalist
 - **Disentangling the Cosmic Web:** The Relationship Between Walls and Other Cosmic Structures [2026]{.cvdate}
   - Link: https://efuleky27.github.io/disperse/
   - International Science and Engineering Fair Finalist
+-->
 
 ### Skills
 
@@ -118,4 +119,4 @@ Email: [efuleky27@punahou.edu](mailto:efuleky27@punahou.edu); [emmafuleky@gmail.
 ### Athletics and Dance
 
 - Open Water Swimming: regular participant in Waikiki Swim Club and biathlon races, Waikiki Roughwater Swim, and the Crossing of Lake Balaton, Hungary
-- Dance: regular stage performances with the Punahou jazz ballet ensembles
+- Dance: regular stage performances with the Punahou jazz ballet classes
