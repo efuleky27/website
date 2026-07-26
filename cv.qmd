@@ -30,7 +30,7 @@ Cell: +1 (808) 807-8383 · Email: efuleky27@punahou.edu · Web: https://efuleky2
 **Emma Fuleky**  
 Punahou School, Honolulu, HI  
 Cell: +1 (808) 807-8383  
-Email: [efuleky27@punahou.edu](mailto:efuleky27@punahou.edu); [emmafuleky@gmail.com](mailto:emmafuleky@gmail.com)
+Email: [efuleky27@punahou.edu](mailto:efuleky27@punahou.edu); [emmafuleky@gmail.com](mailto:emmafuleky@gmail.com)  
 Web: [https://efuleky27.github.io/website](https://efuleky27.github.io/website)
 :::
 
@@ -96,8 +96,9 @@ Web: [https://efuleky27.github.io/website](https://efuleky27.github.io/website)
     - Contributed more than 200 hours of leadership experience as a camp counselor and language/cultural mentor
 
 ### Outreach
-- **Science Project**  [Spetember 2026]{.cvdate}
-  - Invited to present 2026 Science Project at Bishop Museuem
+- **Bernice Pauahi Bishop Museum**  
+  - Invited speaker to present 2026 Science Project [Scheduled for September 2026]{.cvdate}
+  - Hosted a booth at Sun Day Sundae Sunday (public astronomy event focused on heliophysics) [November 2024]{.cvdate}
 - **GLOBE Citizen Science** [Summer 2026]{.cvdate}
   - Presented at 2 schools in Slovakia (in English and Hungarain)
   - Completed 8 hours in cloud observations across 4 weeks
