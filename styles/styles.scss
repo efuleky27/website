@@ -10,10 +10,21 @@
 // $color-quaternary: #d6daff; //(periwinkle)
 
 $color-primary: #0a1f37; //(blush)
-$color-secondary: #BED2e6; //(rose)
+$color-secondary: #e0f0ff; //(rose)
 $color-tertiary: #040b23; //(lavender)
-$color-quaternary: #BED2e6; //(periwinkle)
+$color-quaternary: #e0f0ff; //(periwinkle)
+$color-quinary: #38bdf8; //(periwinkle)
 
+$color: #38bdf8;
+$color: #38d9d9;
+$color: #fbbf24;
+$color: #34d399;
+$color: #64b5f6;
+$color: #ffd54f;
+$color: #00e5ff;
+$color: #69f0ae;
+$color: #ff8a80;
+$color: #bed2e6;
 
 $dark-green: #003333ff;
 $light-blue: #cceeffff;
@@ -43,10 +54,10 @@ $UHERO_light_red: #FF9191;
 // Base document colors
 $navbar-bg: $color-tertiary; // navbar
 $navbar-fg: $color-quaternary; // navbar foreground elements
-$navbar-hl: $color-primary; // highlight color when hovering over navbar links
+$navbar-hl: $color-quinary; // highlight color when hovering over navbar links
 $body-bg: $color-primary; // page background 
 $body-color: $color-secondary; // page text 
-$link-color: $color-tertiary; // hyperlinks 
+$link-color: $color-quinary; // hyperlinks 
 $footer-bg: $color-tertiary; // footer 
 $footer-fg: $color-quaternary; // footer foreground elements
 
