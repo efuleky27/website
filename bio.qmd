@@ -12,4 +12,6 @@ I am a Professor of Economics with a joint appointment at the University of Hawa
 
 Most of the territory currently occupied by Slovakia had been an integral part of Hungary between the years 1000-1918. However, after World War&nbsp;I, the Treaty of Trianon allocated this area to Czechoslovakia (see [Wikipedia](https://en.wikipedia.org/wiki/Treaty_of_Trianon) and the map below for details). Although my grandparents never moved from their native soil, they suddenly found themselves in a different—in some aspects foreign—country. But their (and my) heritage has remained Hungarian.
 
+::: {.text-center}
 [![](assets/images/Kingdom_of_Hungary_Web.jpg)](https://en.wikipedia.org/wiki/Treaty_of_Trianon)
+:::
