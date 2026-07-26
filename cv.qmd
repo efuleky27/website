@@ -17,7 +17,7 @@ header-includes:
 ---
 
 ::: {.print-only .contact-block} 
-Cell: +1 (808) 807-8383 · Email: efuleky27@punahou.edu
+Cell: +1 (808) 807-8383 · Email: efuleky27@punahou.edu · Web: https://efuleky27.github.io/website
 :::
 
 ::: {.no-print .contact-block}
@@ -31,6 +31,7 @@ Cell: +1 (808) 807-8383 · Email: efuleky27@punahou.edu
 Punahou School, Honolulu, HI  
 Cell: +1 (808) 807-8383  
 Email: [efuleky27@punahou.edu](mailto:efuleky27@punahou.edu); [emmafuleky@gmail.com](mailto:emmafuleky@gmail.com)
+Web: [https://efuleky27.github.io/website](https://efuleky27.github.io/website)
 :::
 
 ### Education
@@ -94,29 +95,42 @@ Email: [efuleky27@punahou.edu](mailto:efuleky27@punahou.edu); [emmafuleky@gmail.
   - Member, Hawaii Hungarian School Association [2013 — present]{.cvdate}
     - Contributed more than 200 hours of leadership experience as a camp counselor and language/cultural mentor
 
+### Outreach
+- **Science Project**  [Spetember 2026]{.cvdate}
+  - Invited to present 2026 Science Project at Bishop Museuem
+- **GLOBE Citizen Science** [Summer 2026]{.cvdate}
+  - Presented at 2 schools in Slovakia (in English and Hungarain)
+  - Completed 8 hours in cloud observations across 4 weeks
+  - Interviewed a NASA Science Education Outreach Coordinator
+
+
 <!-- ### Science Projects
 
-- **PBHs and Dark Matter:** The Link Between the Early Universe and Modern Cosmology [2025]{.cvdate}
-  - State Science Fair Finalist
 - **Disentangling the Cosmic Web:** The Relationship Between Walls and Other Cosmic Structures [2026]{.cvdate}
   - Link: https://efuleky27.github.io/disperse/
   - International Science and Engineering Fair Finalist
+- **PBHs and Dark Matter:** The Link Between the Early Universe and Modern Cosmology [2025]{.cvdate}
+  - State Science Fair Finalist
+
 -->
 
 ### Skills
 
 - **Languages and Writing**
-  - Proficient in English and Hungarian (native speaker)
-  - Conversational proficiency in Spanish
+  - English - native
+  - Hungarian - native
+    - Spent 3rd grade in Hungary in Hungarian school
+  - Spanish - conversational proficiency (B2 Level)
+    - Attended summer school in Madrid (2024), Barcelona (2025), Seville (2026)
   - Persuasive writing and poetry
 
 - **Soft Skills**
   - Public speaking, communication, teamwork, leadership, organization, creativity, and working well under pressure
 
-- **Programming**
-  - Python
+- **Technology**
+  - Python, Quarto/Markdown, Git/GitHub, AI, Office Suite
 
-### Athletics and Dance
+### Athletics
 
-- Open Water Swimming: regular participant in Waikiki Swim Club and biathlon races, Waikiki Roughwater Swim, and the Crossing of Lake Balaton, Hungary
+- Open Water Swimming: regular participant in Waikiki Swim Club and biathlon races (5km run & 1km swim), Waikiki Roughwater Swim (3.9km), and the Crossing of Lake Balaton, Hungary (5.2km)
 - Dance: regular stage performances with the Punahou jazz ballet classes
