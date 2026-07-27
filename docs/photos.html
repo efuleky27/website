@@ -183,6 +183,7 @@ gtag('config', 'G-2H4NNSECCS', { 'anonymize_ip': true});
        ![Location · Mon Day, Year — brief note on the occasion.\
        *Camera · Lens · focal length, shutter, f-stop, ISO*](assets/images/photos/your-photo.webp){group="photos"}
 -->
+<p>Nature paints with light — in these few shots I was lucky enough to catch the mood of the moment. The camera mostly just gives me an excuse to stop, look closely, and hold onto how a place or moment felt before moving on.</p>
 <div class="photo-grid">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -409,6 +410,29 @@ gtag('config', 'G-2H4NNSECCS', { 'anonymize_ip': true});
 </figure>
 </div>
 </div>
+<script>
+(function () {
+  function init() {
+    document.querySelectorAll(".photo-grid .figure-img").forEach(function (img) {
+      function reveal() {
+        img.classList.add("loaded");
+      }
+      if (img.complete) {
+        reveal();
+      } else {
+        img.addEventListener("load", reveal);
+        img.addEventListener("error", reveal);
+      }
+    });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+  } else {
+    init();
+  }
+})();
+</script>
 
 
 

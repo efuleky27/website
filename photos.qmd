@@ -31,6 +31,8 @@ css: styles/photos.css
        *Camera · Lens · focal length, shutter, f-stop, ISO*](assets/images/photos/your-photo.webp){group="photos"}
 -->
 
+Nature paints with light — in these few shots I was lucky enough to catch the mood or the moment. The camera mostly just gives me an excuse to stop, look closely, and hold onto how a place or moment felt before moving on.
+
 ::: {.photo-grid}
 
 ![[Location] · Feb 10, 2025 — [occasion].\
@@ -130,3 +132,27 @@ css: styles/photos.css
 *Canon EOS R6 Mark II · EF 50mm f/1.8 · 50mm, 1/80s, f/1.8, ISO 3200*](assets/images/photos/ELF_6101.webp){group="photos"}
 
 :::
+
+<script>
+(function () {
+  function init() {
+    document.querySelectorAll(".photo-grid .figure-img").forEach(function (img) {
+      function reveal() {
+        img.classList.add("loaded");
+      }
+      if (img.complete) {
+        reveal();
+      } else {
+        img.addEventListener("load", reveal);
+        img.addEventListener("error", reveal);
+      }
+    });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+  } else {
+    init();
+  }
+})();
+</script>
