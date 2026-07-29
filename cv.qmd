@@ -8,7 +8,7 @@ format:
     pdf-engine: weasyprint
 format-links: [pdf]
 css: styles/cv.css
-updated: "July 23, 2026"
+updated: "July 28, 2026"
 header-includes:
   - |
     <style>
@@ -16,8 +16,8 @@ header-includes:
     </style>
 ---
 
-::: {.print-only .contact-block} 
-Email: efuleky27@punahou.edu · Web: https://efuleky27.github.io/website
+::: {.print-only .contact-block}
+Email: efuleky27@punahou.edu &middot; Web: https://efuleky27.github.io
 :::
 
 ::: {.no-print .contact-block}
@@ -27,10 +27,10 @@ Email: efuleky27@punahou.edu · Web: https://efuleky27.github.io/website
 ::: {.no-print .contact-block}
 ### Contact
 
-**Emma Fuleky**  
-Punahou School, Honolulu, HI  
-Email: [efuleky27@punahou.edu](mailto:efuleky27@punahou.edu)
-Web: [https://efuleky27.github.io/website](https://efuleky27.github.io/website)
+**Emma Fuleky**\
+Punahou School, Honolulu, HI\
+Email: [efuleky27@punahou.edu](mailto:efuleky27@punahou.edu)\
+Web: [https://efuleky27.github.io](https://efuleky27.github.io)
 :::
 
 ### Education
@@ -38,101 +38,112 @@ Web: [https://efuleky27.github.io/website](https://efuleky27.github.io/website)
 - **Punahou School, Honolulu, HI** [Expected June 2027]{.cvdate}
   - High School Diploma
   - GPA: 3.95/4
-  - 8 Honors Classes
-  - 8 AP Classes
+  - 8 Honors and 8 AP classes
+  <!-- TODO (Emma): naming the math/physics/CS sequence (e.g. AP Physics C,
+       Calculus BC, AP Computer Science) is more informative than a count.
+       Replace the line above with something like:
+         - Coursework: AP Physics 1 & 2, AP Chemistry, AP Calculus ..., AP ... -->
 
-### Awards
+### Research
 
-- **2025-2026**
-  - Award of Recognition in AP Chemistry and AP Physics 1 & 2
-  - State Science Fair affiliated awards:
-    - 1st place in Physics and Astronomy Category; Hawaii Astronomical Society Award; Overall top 12 project out of more than 150 projects
-  - International Science and Engineering Fair (ISEF) affiliated awards:
-    - District: Yale Science and Engineering Award
-    - State: NASA Earth System Science Award
-    - International: ISEF 2026 Finalist in Phoenix, Arizona; New American University Merit Scholarship Award from Arizona State University; Finalist for Society of Science Alumni special award
-  - Best Delegate at International Model UN conference in an Advanced Committee
-  - National Honors Society, completed 500+ hours of community work
- 
+- **Disentangling the Cosmic Web** [2026]{.cvdate}
+  - Focus: The Relationship Between Walls and Other Cosmic Structures
+  - Built an automated pipeline (Python, Globus, DisPerSE, ParaView) to extract and quantify walls, filaments, and clusters from a 134-million-particle Quijote N-body simulation, tiled into 40 crops to fit in memory
+  - Found that ~99% of filaments lie within walls and that walls hold ~51% of all particles at z = 0, establishing walls as structurally fundamental to the cosmic web
+  - Regeneron International Science and Engineering Fair Finalist
+  - Project website: [https://efuleky27.github.io/disperse/](https://efuleky27.github.io/disperse/)
 
-- **2024-2025**
-  - Award of Recognition in Chemistry Honors
-  - Qualified to State Level Science Fair
-  - Qualified to State Level Debate Championship
-  
+- **Primordial Black Holes and Dark Matter** [2025]{.cvdate}
+  - Focus: The Link Between the Early Universe and Modern Cosmology
+  - Synthesized 10 published observational constraints to bound the fraction of dark matter attributable to primordial black holes, finding an upper limit of ~30.5% under the most restrictive constraint envelope
+  - Hawaii State Science Fair Finalist
 
-- **2023-2024**
-  - Award of Recognition in Biology Honors
-  - Award of Excellence in English
-  - 1st Place Award in Beginning Public Forum Debate
-  - Qualified to State Level Debate Championship
-  - Honorary Mention 
+### Awards and Honors (since 2023)
+
+- **Finalist, Regeneron International Science and Engineering Fair (ISEF)**, Phoenix, AZ [2026]{.cvdate}
+  - **New American University Merit Scholarship Award**, Arizona State University
+  - **Finalist, Society for Science Alumni special award**
+- **1st Place, Physics and Astronomy, Hawaii State Science Fair** [2026]{.cvdate}
+  - **Top 12 project overall** out of more than 150 state level finalists
+  - **Hawaii Astronomical Society Award**
+  - **NASA Earth System Science Award**
+- **Yale Science and Engineering Award** (ISEF district affiliate) [2026]{.cvdate}
+- **Best Delegate**, Advanced (Joint Crisis) Committee, International Model UN Conference [2026]{.cvdate}
+- **Member, National Honor Society** [2026]{.cvdate}
+- **Finalist, State Science Fair** [2025]{.cvdate}
+- **Finalist, State Debate Championship** [2024, 2025]{.cvdate}
+- **1st Place**, Beginning Public Forum Debate, Oahu District [2024]{.cvdate}
+- Punahou Academic Achievement Awards
+  - **Award of Recognition**, AP Chemistry and AP Physics 1 & 2 [2026]{.cvdate}
+  - **Award of Recognition**, Chemistry Honors [2025]{.cvdate}
+  - **Award of Recognition**, Biology Honors; **Award of Excellence**, English [2024]{.cvdate}
+
+### Presentations
+
+- **Invited speaker**, Bernice Pauahi Bishop Museum [Scheduled September 2026]{.cvdate}
+  - Disentangling the Cosmic Web: The Relationship Between Walls and Other Cosmic Structures
+- **Advocate for NASA Citizen Science/GLOBE program**, Slovakia [Summer 2026]{.cvdate}
+  - Guest presentations at two schools in Slovakia, delivered in English and Hungarian
+- **Regeneron International Science and Engineering Fair**, Phoenix, AZ [2026]{.cvdate}
+- **Hawaii State Science Fair** [2025, 2026]{.cvdate}
+- **Sun Day Sundae Sunday**, Bernice Pauahi Bishop Museum [November 2024]{.cvdate}
+  - Hosted a booth at this public heliophysics event
 
 ### Activities and Leadership
 
 - **Science**
-  - Founder and Leader, Punahou Research and Science Club [2025 — present]{.cvdate}
+  - Founder and Leader, Punahou Research and Science Club [2025 - present]{.cvdate}
     - Established the first research club at Punahou to introduce students to the scientific method and research process
-    - Invited and hosted professors from the University of Hawaiʻi to speak about their research and professions
-    - Mentored students through the scientific research process and helped them qualify for state and international science fairs
+    - Invited and hosted 5 professors from the University of Hawaiʻi to speak about their research and professions
+    - Mentored 7 students through the scientific research process and helped them qualify for state and international science fairs
 
 - **Astronomy**
-  - Co-President, Punahou Astronomy Club [2024 — present]{.cvdate}
+  - Co-President, Punahou Astronomy Club [2024 - present]{.cvdate}
     - Organized star and planet observation parties
-    - Held presentations on the Solar System, comets and meteorites, the lunar landing, and telescope parts
-    - Initiated astronomy-related projects, built and coded a radio telescope, and organized community outreach at museums
+    - Presented to club members about the solar system, comets and meteorites, the lunar landing, and telescope optics
+    - Built a radio telescope (COMPONENTS/PARTS), currently writing (PYTHON?) code for data management
+    - Organized community outreach at the Bishop Museum
 
 - **Communication and Debate**
-  - Member, Punahou Debate Team [2023 — present]{.cvdate}
-    - Participated in 10 tournaments at county and state level and qualified to state championship twice
-  - Member, Punahou Model UN [2023 — present]{.cvdate}
-    - Participated in beginner and advanced committees on worldwide issues including world peace, climate change, and pandemic-related challenges
+  - Member, Punahou Debate Team [2023 - present]{.cvdate}
+    - Competed in 10 tournaments at the county and state level; qualified for the state championship twice (CHECK IF AWARD LETTER SAYS STATE FINALIST)
+  - Member, Punahou Model UN [2023 - present]{.cvdate}
+    - Served on beginner and advanced committees addressing trade, peace, climate change, and pandemic response; Best Delegate award in 2026
 
 - **Fundraising and Community Service**
-  - Food Division Head, Punahou Carnival [2025 — 2026]{.cvdate}
-    - Led and trained 130 students across 13 food booths, managed shifts and supplies, and contributed more than 200 hours of leadership experience
-  - Punahou Student Ambassador [2021 — present]{.cvdate}
-    - Guided new families through Punahou and contributed more than 50 hours of community service
-  - Member, Hawaii Hungarian School Association [2013 — present]{.cvdate}
-    - Contributed more than 200 hours of leadership experience as a camp counselor and language/cultural mentor
+  - Food Division Head, Punahou Carnival [2025 - 2026]{.cvdate}
+    - Led and trained 130 students across 13 food booths, managing shifts and supplies across 200+ hours
+  - Punahou Student Ambassador [2021 - present]{.cvdate}
+    - Gave campus tours, joined student panels, and shared experience with prospective families; 50+ hours of service
+  - Camp counselor and language mentor, Hawaii Hungarian School Association [2013 - present]{.cvdate}
+    - Led camp activities, taught Hungarian language and culture to younger students; 200+ hours
 
 ### Outreach
-- **Bernice Pauahi Bishop Museum**  
-  - Invited speaker to present 2026 Science Project [Scheduled for September 2026]{.cvdate}
-  - Hosted a booth at Sun Day Sundae Sunday (public astronomy event focused on heliophysics) [November 2024]{.cvdate}
-- **GLOBE Citizen Science** [Summer 2026]{.cvdate}
-  - Presented at 2 schools in Slovakia (in English and Hungarain)
-  - Completed 8 hours in cloud observations across 4 weeks
-  - Interviewed a NASA Science Education Outreach Coordinator
 
-
-<!-- ### Science Projects
-
-- **Disentangling the Cosmic Web:** The Relationship Between Walls and Other Cosmic Structures [2026]{.cvdate}
-  - Link: https://efuleky27.github.io/disperse/
-  - International Science and Engineering Fair Finalist
-- **PBHs and Dark Matter:** The Link Between the Early Universe and Modern Cosmology [2025]{.cvdate}
-  - State Science Fair Finalist
-
--->
+- **NASA Citizen Science** [Summer 2026]{.cvdate}
+  - Contributed over 50 cloud observations to NASA's GLOBE database
+  - Interviewed a NASA Science Education Outreach Coordinator; shared highlights with Punahou community
+  - Introduced the program to students at two schools in Slovakia, presenting in English and Hungarian
 
 ### Skills
 
-- **Languages and Writing**
+- **Technical**
+  - Programming: Python
+  - Scientific visualization: ParaView
+  - Topological data analysis: DisPerSE (Delaunay tessellation, Morse–Smale complexes)
+  - Authoring: Quarto/Markdown, Git/GitHub, VS Code, Positron
+  - Development workflow: Git/GitHub, VS Code, Positron, AI coding assistants (Claude Code, Codex, Copilot)
+  - AI-assisted development: Claude Code, Codex, GitHub Copilot
+  - Photo editing: Adobe Lightroom/Photoshop
+
+- **Languages**
   - English - native
   - Hungarian - native
-    - Spent 3rd grade in Hungary in Hungarian school
-  - Spanish - conversational proficiency (B2 Level)
-    - Attended summer school in Madrid (2024), Barcelona (2025), Seville (2026)
-  - Persuasive writing and poetry (write something)
+    - completed 3rd grade at school in Hungary (language of instruction: Hungarian)
+  - Spanish - conversational (B2 level)
+    - summer study in Madrid (2024), Barcelona (2025), and Seville (2026)
 
-- **Soft Skills**
-  - Public speaking, communication, teamwork, leadership, organization, creativity, and working well under pressure
+### Athletics and Arts
 
-- **Technology**
-  - Python, Quarto/Markdown, Git/GitHub, AI, Office Suite
-
-### Athletics
-
-- Open Water Swimming: regular participant in Waikiki Swim Club and biathlon races (5km run & 1km swim), Waikiki Roughwater Swim (3.9km), and the Crossing of Lake Balaton, Hungary (5.2km)
+- Open water swimming: Waikiki Swim Club member and regular competitor in biathlon races (5 km run / 1 km swim), Waikiki Roughwater Swim (3.9 km), Duke's Ocean Mile (1.6 km), and Crossing of Lake Balaton, Hungary (5.2 km)
 - Dance: regular stage performances with the Punahou jazz ballet ensemble

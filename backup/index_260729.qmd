@@ -1,0 +1,63 @@
+---
+title: "Emma Fuleky"
+about:
+  template: jolla
+  image: assets/images/elf_pic.webp
+  # links:
+  #   - icon: twitter
+  #     text: twitter
+  #     href: https://twitter.com
+  #   - icon: github
+  #     text: Github
+  #     href: https://github.com
+format:
+  html:
+    toc: false
+---
+
+**Contact:**  
+Email: efuleky27@punahou.edu
+
+
+
+<!-- 
+::: {.home-container}
+::: {.home-top}
+::: {.home-right}
+[![Macroeconomic Forecasting book cover](assets/images/978-3-030-31150-6.jpg){.home-book}](https://link.springer.com/book/10.1007%2F978-3-030-31150-6)
+:::
+
+::: {.home-left}
+![Peter Fuleky portrait](assets/images/pic.jpg){.home-portrait}
+:::
+
+# Emma Fuleky
+
+Professor  
+[UHERO](http://www.uhero.hawaii.edu/) and [Department of Economics](http://www.economics.hawaii.edu/)  
+[Curriculum Vitae](fuleky_cv_quarto.pdf)  
+[Bio](bio.qmd)
+
+::: {.home-links}
+[**Papers/Research:** Econometrics, Time Series Analysis, Forecasting, Empirical Macroeconomics, Tourism Economics](papers.html)
+
+[**Book:** Macroeconomic Forecasting in the Era of Big Data](https://link.springer.com/book/10.1007%2F978-3-030-31150-6)
+
+**Teaching:**  
+[Economic Forecasting](econ427/econ427.html) · [Econometrics I](econ628/econ628.html) · [Anatomy of Production/Utility Functions in 3D](anatomy/anatomy.html)
+:::
+:::
+
+::: {.home-bottom}
+![University of Hawaii seal](assets/images/univer_seal.gif){.home-seal}
+
+**Office:**  
+2424 Maile Way  
+508 Saunders Hall  
+University of Hawaii at Manoa  
+Honolulu, HI 96822  
+USA  
+Email: fuleky@hawaii.edu  
+Tel: (808) 956-7840
+:::
+::: -->

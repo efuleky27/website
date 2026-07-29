@@ -1,0 +1,78 @@
+/*-- scss:defaults --*/
+
+// Import Google fonts
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+// Colors
+// $color-primary: #fef5f2; //(blush)
+// $color-secondary: #882a3d; //(rose)
+// $color-tertiary: #484884; //(lavender)
+// $color-quaternary: #d6daff; //(periwinkle)
+
+$color-primary: #0a1f37; //(blush)
+$color-secondary: #e0f0ff; //(rose)
+$color-tertiary: #040b23; //(lavender)
+$color-quaternary: #e0f0ff; //(periwinkle)
+$color-quinary: #64b5f6; //(periwinkle)
+
+$color: #38bdf8;
+$color: #38d9d9;
+$color: #fbbf24;
+$color: #34d399;
+$color: #64b5f6;
+$color: #ffd54f;
+$color: #00e5ff;
+$color: #69f0ae;
+$color: #ff8a80;
+$color: #bed2e6;
+
+$dark-green: #003333ff;
+$light-blue: #cceeffff;
+$white_alpha: #ffffffdd;
+$orange: #ad7237;
+$blue: #004488ff;
+$dark_blue: rgb(222, 181, 237);
+
+
+// UHERO Colors
+$UHERO_blue: #1D667F;
+$UHERO_orange: #F6A01B;
+$UHERO_green: #9BBB59;
+$UHERO_purple: #8064A2;
+$UHERO_cyan: #7EC4CA;
+$UHERO_gray: #505050;
+$UHERO_red: #ff0000;
+$UHERO_light_blue: #6DA2BC;
+$UHERO_light_orange: #FFC593;
+$UHERO_light_green: #BADA7C;
+$UHERO_light_purple: #B69CD9;
+$UHERO_light_cyan: #9CE0E6;
+$UHERO_light_gray: #C5C5C5;
+$UHERO_light_red: #FF9191;
+
+// https://quarto.org/docs/output-formats/html-themes.html
+// Base document colors
+$navbar-bg: $color-tertiary; // navbar
+$navbar-fg: $color-quaternary; // navbar foreground elements
+$navbar-hl: $color-quinary; // highlight color when hovering over navbar links
+$body-bg: $color-primary; // page background 
+$body-color: $color-secondary; // page text 
+$link-color: $color-quinary; // hyperlinks 
+$footer-bg: $color-tertiary; // footer 
+$footer-fg: $color-quaternary; // footer foreground elements
+
+// Fonts
+$font-family-sans-serif: 'Open Sans'; // base font family
+$font-size-root: 14px; // base font size
+$toc-font-size: 14px; // table of contents font size
+
+/*-- scss:rules --*/
+
+// Global styles
+a {
+  text-decoration: none;
+}
+
+// a:hover {
+//   text-decoration: underline;
+// }
