@@ -140,7 +140,7 @@ reach:
   not an artifact of the 3.5σ cut.
 
 ::: {.text-center}
-[![](assets/images/science-posters/Cosmic_web.webp){width=65% fig-alt="Science fair poster: Disentangling the Cosmic Web"}](https://efuleky27.github.io/disperse/figures/Disentangling_the_Cosmic_Web_small.pdf)
+[![](assets/images/science_posters/Cosmic_web.webp){width=65% fig-alt="Science fair poster: Disentangling the Cosmic Web"}](https://efuleky27.github.io/disperse/figures/Disentangling_the_Cosmic_Web_small.pdf)
 
 [Science fair poster: Disentangling the Cosmic Web — full-resolution PDF](https://efuleky27.github.io/disperse/figures/Disentangling_the_Cosmic_Web_small.pdf)
 :::
@@ -189,12 +189,12 @@ additional observational constraints and reducing methodological uncertainty.
 
 Google Sheets &middot; numerical integration &middot; literature synthesis
 
-<!-- [![Science fair poster: PBHs and Dark Matter](assets/images/science-posters/PBH_darkmatter.webp){width=65% fig-align="center"}](assets/images/science-posters/PBH_darkmatter.webp) -->
+<!-- [![Science fair poster: PBHs and Dark Matter](assets/images/science_posters/PBH_darkmatter.webp){width=65% fig-align="center"}](assets/images/science_posters/PBH_darkmatter.webp) -->
 
 ::: {.text-center}
-[![](assets/images/science-posters/PBH_darkmatter.webp){width=65% fig-alt="Science fair poster: PBHs and Dark Matter"}](assets/images/science-posters/PBH_darkmatter.webp)
+[![](assets/images/science_posters/PBH_darkmatter.webp){width=65% fig-alt="Science fair poster: PBHs and Dark Matter"}](assets/images/science_posters/PBH_darkmatter.webp)
 
-[Science fair poster: PBHs and Dark Matter — full-resolution image](assets/images/science-posters/PBH_darkmatter.webp)
+[Science fair poster: PBHs and Dark Matter — full-resolution image](assets/images/science_posters/PBH_darkmatter.webp)
 :::
 
 <!--
