@@ -68,11 +68,11 @@ Web: [https://efuleky27.github.io](https://efuleky27.github.io)
   - **Hawaii Astronomical Society Award**
   - **NASA Earth System Science Award**
 - **Yale Science and Engineering Award** (ISEF district affiliate) [2026]{.cvdate}
-- **Best Delegate**, Advanced (Joint Crisis) Committee, International Model UN Conference [2026]{.cvdate}
+- **Best Delegate, Advanced (Joint Crisis) Committee**, Hawaii Pacific International Model UN Conference [2026]{.cvdate}
 - **Member, National Honor Society** [2026]{.cvdate}
 - **Finalist, Hawaii State Science Fair** [2025]{.cvdate}
-- **Finalist, State Debate Championship** [2024, 2025]{.cvdate}
-- **1st Place**, Beginning Public Forum Debate, Oahu District [2024]{.cvdate}
+- **Finalist, Hawaii State Debate Championship** [2024, 2025]{.cvdate}
+- **1st Place, Beginning Public Forum Debate**, Oahu District [2024]{.cvdate}
 - Punahou Academic Achievement Awards
   - **Award of Recognition**, AP Chemistry and AP Physics 1 & 2 [2026]{.cvdate}
   - **Award of Recognition**, Chemistry Honors [2025]{.cvdate}
@@ -101,14 +101,17 @@ Web: [https://efuleky27.github.io](https://efuleky27.github.io)
   - Co-President, Punahou Astronomy Club [2024 - present]{.cvdate}
     - Organized star and planet observation parties
     - Presented to club members about the solar system, comets and meteorites, the lunar landing, and telescope optics
-    - Built a radio telescope (COMPONENTS/PARTS), currently writing (PYTHON?) code for data management
+    - Builing a horn HI telescope to measure the rotation curve of the Milky Way using GNU Radio software
     - Organized community outreach at the Bishop Museum
+  - Co-Leader, Pauahi Telescope Project [2026 - present]{.cvdate}
+    - Advocating for the restoration of a school telescope on top of a historic campus building
 
 - **Communication and Debate**
   - Member, Punahou Debate Team [2023 - present]{.cvdate}
     - Competed in 10 tournaments at the county and state level; qualified for the state championship twice (CHECK IF AWARD LETTER SAYS STATE FINALIST)
   - Member, Punahou Model UN [2023 - present]{.cvdate}
     - Served on beginner and advanced committees addressing trade, peace, climate change, and pandemic response; Best Delegate award in 2026
+    - Served as co-chair (2x) and crisis director (1x) in advanced commitees
 
 - **Fundraising and Community Service**
   - Food Division Head, Punahou Carnival [2025 - 2026]{.cvdate}
@@ -131,9 +134,8 @@ Web: [https://efuleky27.github.io](https://efuleky27.github.io)
   - Programming: Python
   - Scientific visualization: ParaView
   - Topological data analysis: DisPerSE (Delaunay tessellation, Morse–Smale complexes)
-  - Authoring: Quarto/Markdown, Git/GitHub, VS Code, Positron
-  - Development workflow: Git/GitHub, VS Code, Positron, AI coding assistants (Claude Code, Codex, Copilot)
-  - AI-assisted development: Claude Code, Codex, GitHub Copilot
+  - Reproting: Quarto/Markdown, LaTex
+  - Development tools: Git/GitHub, VS Code, Positron, AI coding assistants (Claude Code, Codex, Copilot)
   - Photo editing: Adobe Lightroom/Photoshop
 
 - **Languages**
@@ -144,6 +146,7 @@ Web: [https://efuleky27.github.io](https://efuleky27.github.io)
     - summer study in Madrid (2024), Barcelona (2025), and Seville (2026)
 
 ### Athletics and Arts
-
-- Open water swimming: Waikiki Swim Club member and regular competitor in biathlon races (5 km run / 1 km swim), Waikiki Roughwater Swim (3.9 km), Duke's Ocean Mile (1.6 km), and Crossing of Lake Balaton, Hungary (5.2 km)
-- Dance: regular stage performances with the Punahou jazz ballet ensemble
+- **Open water swimming**
+  - Waikiki Swim Club member and regular competitor in biathlon races (5 km run / 1 km swim), Waikiki Roughwater Swim (3.9 km), Duke's Ocean Mile (1.6 km), and Crossing of Lake Balaton, Hungary (5.2 km)
+- **Dance**
+  - regular stage performances with the Punahou jazz ballet ensemble
