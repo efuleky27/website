@@ -15,16 +15,12 @@ format:
     toc: false
 ---
 
-::: {style="max-width: 36rem; margin: 0 auto;"}
+::: {style="max-width: 40rem; margin: 0 auto;"}
 
-I am a student at Punahou School in Honolulu, interested in computational astrophysics and cosmology.
+I am a student at Punahou School in Honolulu, interested in computational astrophysics and cosmology. It is a field that asks the biggest questions there are -- where the universe came from, how it is put together, and where it is going.
 
-For my research project *Disentangling the Cosmic Web*, I built an automated pipeline 
-that extracts and quantifies the universe's large-scale structure (walls, filaments, and clusters) from a 134-million-particle cosmological simulation. 
+For my recent research project *Disentangling the Cosmic Web*, I built an automated pipeline that extracts and quantifies the universe's large-scale structure (walls, filaments, and clusters) from a 134-million-particle cosmological simulation. The project won 1st place in Physics and Astronomy at the Hawaii State Science Fair, which qualified me to compete as a finalist at the 2026 Regeneron International Science and Engineering Fair.
 
-The project won 1st place in Physics and Astronomy at the Hawaii State Science Fair, which qualified me to compete as a finalist at the 2026 Regeneron International Science and Engineering Fair.
-
-Beyond research, I founded Punahou's first student research club, co-lead
-the school's astronomy club, compete in debate, and swim open-water races.
+Beyond research, I founded Punahou's student research club, co-lead the school's astronomy club, compete in debate, and swim open-water races.
 
 :::

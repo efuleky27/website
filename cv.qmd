@@ -8,11 +8,15 @@ format:
     pdf-engine: weasyprint
 format-links: [pdf]
 css: styles/cv.css
-updated: "July 28, 2026"
+date-modified: last-modified
+date-format: long
 header-includes:
   - |
     <style>
-      :root { --updated-text: "Updated: {{< meta updated >}}"; }
+      .quarto-title-meta {
+        display: none !important;
+      }
+      :root { --updated-text: "Updated: {{< meta date-modified >}}"; }
     </style>
 ---
 
@@ -21,7 +25,7 @@ Email: efuleky27@punahou.edu &middot; Web: https://efuleky27.github.io
 :::
 
 ::: {.no-print .contact-block}
-*Updated: {{< meta updated >}}*
+*Updated: {{< meta date-modified >}}*
 :::
 
 ::: {.no-print .contact-block}
@@ -39,23 +43,19 @@ Web: [https://efuleky27.github.io](https://efuleky27.github.io)
   - High School Diploma
   - GPA: 3.95/4
   - 8 Honors and 8 AP classes
-  <!-- TODO (Emma): naming the math/physics/CS sequence (e.g. AP Physics C,
-       Calculus BC, AP Computer Science) is more informative than a count.
-       Replace the line above with something like:
-         - Coursework: AP Physics 1 & 2, AP Chemistry, AP Calculus ..., AP ... -->
 
 ### Research
 
 - **Disentangling the Cosmic Web** [2026]{.cvdate}
   - Focus: The Relationship Between Walls and Other Cosmic Structures
-  - Built an automated pipeline (Python, Globus, DisPerSE, ParaView) to extract and quantify walls, filaments, and clusters from a 134-million-particle Quijote N-body simulation, tiled into 40 crops to fit in memory
-  - Found that ~99% of filaments lie within walls and that walls hold ~51% of all particles at z = 0, establishing walls as structurally fundamental to the cosmic web
+  - Built an automated pipeline using Python, Globus, DisPerSE, and ParaView to extract and quantify walls, filaments, and clusters from a Quijote N-body simulation (134-million-particles tiled into 40 blocks to fit in memory)
+  - Found that ~99% of filaments lie within walls and that walls hold ~51% of all particles at z = 0, showing that walls are structurally fundamental to the cosmic web
   - Regeneron International Science and Engineering Fair Finalist
   - Project website: [https://efuleky27.github.io/disperse/](https://efuleky27.github.io/disperse/)
 
 - **Primordial Black Holes and Dark Matter** [2025]{.cvdate}
   - Focus: The Link Between the Early Universe and Modern Cosmology
-  - Synthesized 10 published observational constraints to bound the fraction of dark matter attributable to primordial black holes, finding an upper limit of ~30.5% under the most restrictive constraint envelope
+  - Gathered 10 published observational limits and numerically integrated them to find the largest share of dark matter that primordial black holes could account for: ~30.5% under the strictest set.
   - Hawaii State Science Fair Finalist
 
 ### Awards and Honors (since 2023)
@@ -64,11 +64,11 @@ Web: [https://efuleky27.github.io](https://efuleky27.github.io)
   - **New American University Merit Scholarship Award**, Arizona State University
   - **Finalist, Society for Science Alumni special award**
 - **1st Place, Physics and Astronomy, Hawaii State Science Fair** [2026]{.cvdate}
-  - **Top 12 project overall** out of more than 150 state level finalists
+  - **Top 12 project overall** out of more than 150 state-level finalists
   - **Hawaii Astronomical Society Award**
   - **NASA Earth System Science Award**
 - **Yale Science and Engineering Award** (ISEF district affiliate) [2026]{.cvdate}
-- **Best Delegate, Advanced (Joint Crisis) Committee**, Hawaii Pacific International Model UN Conference [2026]{.cvdate}
+- **Best Delegate in Advanced Committee**, Hawaii Pacific International Model UN Conference [2026]{.cvdate}
 - **Member, National Honor Society** [2026]{.cvdate}
 - **Finalist, Hawaii State Science Fair** [2025]{.cvdate}
 - **Finalist, Hawaii State Debate Championship** [2024, 2025]{.cvdate}
@@ -93,31 +93,33 @@ Web: [https://efuleky27.github.io](https://efuleky27.github.io)
 
 - **Science**
   - Founder and Leader, Punahou Research and Science Club [2025 - present]{.cvdate}
-    - Established the first research club at Punahou to introduce students to the scientific method and research process
-    - Invited and hosted 5 professors from the University of Hawaiʻi to speak about their research and professions
-    - Mentored 7 students through the scientific research process and helped them qualify for state and international science fairs
+    - Established a research club at Punahou to help students develop their own projects
+    - Hosted a professor from the University of Hawaiʻi to talk about their research and profession (more scheduled)
+    - Mentored 4 students and helped them qualify for state and international level science fairs
 
 - **Astronomy**
   - Co-President, Punahou Astronomy Club [2024 - present]{.cvdate}
-    - Organized star and planet observation parties
-    - Presented to club members about the solar system, comets and meteorites, the lunar landing, and telescope optics
-    - Builing a horn HI telescope to measure the rotation curve of the Milky Way using GNU Radio software
-    - Organized community outreach at the Bishop Museum
+    - Currently building a hydrogen-line (HI) horn telescope to measure the rotation curve of the Milky Way using GNU Radio software
+    - Presented to club members about the solar system, comets and meteorites, moon phases, the lunar landing, and telescope optics
+    - Hosted a booth at Sun Day Sundae Sunday, an outreach event on heliophysics, at the Bishop Museum
+    - Planned star and planet observation parties
   - Co-Leader, Pauahi Telescope Project [2026 - present]{.cvdate}
-    - Advocating for the restoration of a school telescope on top of a historic campus building
+    - Campaigning to return a working telescope to the historic dome atop Punahou’s Pauahi Hall
 
-- **Communication and Debate**
+- **Communication**
   - Member, Punahou Debate Team [2023 - present]{.cvdate}
-    - Competed in 10 tournaments at the county and state level; qualified for the state championship twice (CHECK IF AWARD LETTER SAYS STATE FINALIST)
+    - Competed in 10 tournaments at the county and state level; qualified for the state championship twice
   - Member, Punahou Model UN [2023 - present]{.cvdate}
-    - Served on beginner and advanced committees addressing trade, peace, climate change, and pandemic response; Best Delegate award in 2026
+    - Served on beginner and advanced committees addressing trade, peace, climate change, and pandemic response
     - Served as co-chair (2x) and crisis director (1x) in advanced commitees
+    - Best Delegate award in 2026 (Advanced Joint-Crisis Committee)
 
 - **Fundraising and Community Service**
   - Food Division Head, Punahou Carnival [2025 - 2026]{.cvdate}
     - Led and trained 130 students across 13 food booths, managing shifts and supplies across 200+ hours
+    - The team sold over 100,000 malasadas and other food items to about 40,000 attendees
   - Punahou Student Ambassador [2021 - present]{.cvdate}
-    - Gave campus tours, joined student panels, and shared experience with prospective families; 50+ hours of service
+    - Gave campus tours, joined student panels, and shared my experience with prospective families; 50+ hours of service
   - Camp counselor and language mentor, Hawaii Hungarian School Association [2013 - present]{.cvdate}
     - Led camp activities, taught Hungarian language and culture to younger students; 200+ hours
 
@@ -125,7 +127,7 @@ Web: [https://efuleky27.github.io](https://efuleky27.github.io)
 
 - **NASA Citizen Science** [Summer 2026]{.cvdate}
   - Contributed over 50 cloud observations to NASA's GLOBE database
-  - Interviewed a NASA Science Education Outreach Coordinator; shared highlights with Punahou community
+  - Interviewed a NASA Science Education Outreach Coordinator; shared highlights with the Punahou community
   - Introduced the program to students at two schools in Slovakia, presenting in English and Hungarian
 
 ### Skills
@@ -134,19 +136,19 @@ Web: [https://efuleky27.github.io](https://efuleky27.github.io)
   - Programming: Python
   - Scientific visualization: ParaView
   - Topological data analysis: DisPerSE (Delaunay tessellation, Morse–Smale complexes)
-  - Reproting: Quarto/Markdown, LaTex
-  - Development tools: Git/GitHub, VS Code, Positron, AI coding assistants (Claude Code, Codex, Copilot)
+  - Technical writing: Quarto/Markdown, LaTeX
+  - Development tools: Git/GitHub, VS Code, Positron, AI assistants (Claude Code, Codex, Copilot)
   - Photo editing: Adobe Lightroom/Photoshop
 
 - **Languages**
   - English - native
   - Hungarian - native
-    - completed 3rd grade at school in Hungary (language of instruction: Hungarian)
+    - Completed 3rd grade at a school in Hungary (language of instruction: Hungarian)
   - Spanish - conversational (B2 level)
-    - summer study in Madrid (2024), Barcelona (2025), and Seville (2026)
+    - Summer study in Madrid (2024), Barcelona (2025), and Seville (2026)
 
 ### Athletics and Arts
 - **Open water swimming**
   - Waikiki Swim Club member and regular competitor in biathlon races (5 km run / 1 km swim), Waikiki Roughwater Swim (3.9 km), Duke's Ocean Mile (1.6 km), and Crossing of Lake Balaton, Hungary (5.2 km)
 - **Dance**
-  - regular stage performances with the Punahou jazz ballet ensemble
+  - Regular stage performances with the Punahou jazz ballet ensemble

@@ -21,6 +21,10 @@
   text-align: center;
 }
 
+.photo-grid .quarto-figure > figure {
+  margin-top: 0;
+}
+
 .photo-grid .figure-img {
   width: 100%;
   height: auto;
