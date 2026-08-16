@@ -44,6 +44,11 @@ Web: [https://efuleky27.github.io](https://efuleky27.github.io)
   - GPA: 3.95/4
   - 8 Honors and 8 AP classes
 
+### Teaching
+
+- **Teaching Assistant, AP Physics 1** [2026 - 2027]{.cvdate}
+ - Mentor ~20 students through coursework, answer questions and explain difficult concepts & problems
+
 ### Research
 
 - **Disentangling the Cosmic Web** [2026]{.cvdate}
