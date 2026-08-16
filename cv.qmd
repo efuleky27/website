@@ -47,7 +47,7 @@ Web: [https://efuleky27.github.io](https://efuleky27.github.io)
 ### Teaching
 
 - **Teaching Assistant, AP Physics 1** [2026 - 2027]{.cvdate}
- - Mentor ~20 students through coursework, answer questions and explain difficult concepts & problems
+  - Mentor ~20 students through coursework, answer questions and explain difficult concepts & problems
 
 ### Research
 
