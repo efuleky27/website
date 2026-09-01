@@ -6,8 +6,8 @@ format:
 css: styles/cv.css
 ---
 
+![](assets/images/sci_fair.webp){.float-end style="width:50%;" .ms-3 .me-2 .mt-2 .mb-3}
 I am interested in computational astrophysics and cosmology, a field that is focused on understanding some of the biggest mysteries in our universe: from the Big Bang to the evolution and organization of matter and energy.
-![](assets/images/sci_fair.webp){.float-end style="width:50%;" .ms-3 .mb-3}
 
 I became interested in the cosmos as a kid on one of my family’s camping trips. Laying under the stars at night next to our tent, my parents and sister searched for familiar constellations, while I wondered what was hiding between the bright dots. Science documentaries and books broadened my horizons and inspired me to think about what the universe is concealing. I imagined going to a black hole, standing on the brink of the event horizon, and seeing the thin line that separates the world we know from one that is hidden. I imagined traveling to the edge of the universe, then back to the Big Bang, and finally to a point before space and time even existed.
 
