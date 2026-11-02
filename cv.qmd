@@ -8,7 +8,8 @@ format:
     pdf-engine: weasyprint
 format-links: [pdf]
 css: styles/cv.css
-date-modified: last-modified
+#date-modified: last-modified
+date-modified: October 31, 2026
 date-format: long
 header-includes:
   - |
