@@ -85,7 +85,7 @@ Web: [https://efuleky27.github.io](https://efuleky27.github.io)
 
 ### Presentations
 
-- **Invited speaker**, Bernice Pauahi Bishop Museum [Scheduled September 2026]{.cvdate}
+- **Invited speaker**, Bernice Pauahi Bishop Museum [October 2026]{.cvdate}
   - Disentangling the Cosmic Web: The Relationship Between Walls and Other Cosmic Structures
 - **Advocate for NASA Citizen Science/GLOBE program**, Slovakia [Summer 2026]{.cvdate}
   - Guest presentations at two schools in Slovakia, delivered in English and Hungarian
@@ -104,12 +104,12 @@ Web: [https://efuleky27.github.io](https://efuleky27.github.io)
 
 - **Astronomy**
   - Co-President, Punahou Astronomy Club [2024 - present]{.cvdate}
-    - Currently building a hydrogen-line (HI) horn telescope to measure the rotation curve of the Milky Way using GNU Radio software
+    - Currently coding a hydrogen-line (HI) horn telescope to measure the rotation curve of the Milky Way using GNU Radio software
     - Presented to club members about the solar system, comets and meteorites, moon phases, the lunar landing, and telescope optics
     - Hosted a booth at Sun Day Sundae Sunday, an outreach event on heliophysics, at the Bishop Museum
     - Planned star and planet observation parties
-  - Co-Leader, Pauahi Telescope Project [2026 - present]{.cvdate}
-    - Campaigning to return a working telescope to the historic dome atop Punahou’s Pauahi Hall
+  - Co-Leader, Telescope Project [2026 - present]{.cvdate}
+    - Campaigning to return a working telescope to Punahou campus
 
 - **Communication**
   - Member, Punahou Debate Team [2023 - present]{.cvdate}
