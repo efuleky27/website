@@ -93,14 +93,14 @@ Dark matter exerts roughly five times the gravitational force that ordinary matt
 
 #### The approach
 
-I compiled ten observational constraints from the published literature. Each constraint limits $f_{PBH}$ — the ratio of PBH density to dark matter density — at a given PBH mass. Plotting them against log mass, I approximated the area under the lowest curve with rectangles (height $f_{PBH}$, width $d \log M$) and added them up. Since both densities are measured over the same volume, that sum is the fraction of dark matter directly.
+I looked at ten observational constraints in the published literature. Each constraint limits $f_{PBH}$ — the ratio of PBH density to dark matter density — at a given PBH mass. Plotting them against log mass, I approximated the area under the lowest curve with rectangles (height $f_{PBH}$, width $d \log M$) and added them up. Since both densities are measured over the same volume, that sum is the fraction of dark matter directly.
 
 #### What I found
 
 - Under the **most restrictive** envelope of constraints, cumulative $f_{PBH}$ converges to **0.305** -- up to $\sim30.5\%$ of dark matter could reside in primordial black holes with masses between $10^{-6}$ and $10 M_\odot$.
 - Under the **least restrictive** envelope, that proportion expands roughly threefold, to about **94%**.
 
-The result is consistent with reviews such as Arbey (2024): certain mass ranges are far more promising than others, and it remains unlikely that PBHs account for all dark matter across all mass ranges. Within current constraints, though, they remain viable candidates. Narrowing this down would take more observational limits and a more precise method than mine.
+The result is consistent with reviews such as Arbey (2024): certain mass ranges are more promising than others, and it remains unlikely that PBHs account for all dark matter across all mass ranges. Within current constraints, though, they remain viable candidates. Narrowing this down would take more observational limits and a more precise method than mine.
 
 #### Tools
 
