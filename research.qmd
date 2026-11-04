@@ -7,9 +7,9 @@ css: styles/cv.css
 ---
 
 ![](assets/images/sci_fair.webp){.float-end style="width:50%;" .ms-3 .me-2 .mt-2 .mb-3}
-I am interested in computational astrophysics and cosmology, a field that is focused on understanding some of the biggest mysteries in our universe: from the Big Bang to the evolution and organization of matter and energy.
+I am interested in computational astrophysics and cosmology, a field that tries to explain some of the biggest mysteries in our universe: from the Big Bang to the evolution and organization of matter and energy.
 
-I became interested in the cosmos as a kid on one of my family’s camping trips. Laying under the stars at night next to our tent, my parents and sister searched for familiar constellations, while I wondered what was hiding between the bright dots. Science documentaries and books broadened my horizons and inspired me to think about what the universe is concealing. I imagined going to a black hole, standing on the brink of the event horizon, and seeing the thin line that separates the world we know from one that is hidden. I imagined traveling to the edge of the universe, then back to the Big Bang, and finally to a point before space and time even existed.
+I became interested in the cosmos as a kid on one of my family’s camping trips. Laying under the stars at night next to our tent, my parents and sister searched for familiar constellations, while I wondered what was hiding between the bright dots in the sky. Science documentaries and books broadened my horizons and inspired me to think about what the universe is concealing. I imagined diving into a black hole, standing on the brink of the event horizon, and seeing the thin line that separates the world we know from one that is hidden. I imagined traveling to the edge of the universe, then back to the Big Bang, and finally to a point before space and time even existed.
 
 These past two years, I decided to try to answer some of my more targeted questions. We don’t understand the nature of nearly 85% of matter in our universe. Because it neither emits nor absorbs light, it is known simply as “dark matter.” Despite its invisibility, it exerts strong gravitational force. Over time, it has pulled ‘normal’ matter into a cosmic web of clusters, filaments, and walls, creating a geometry that reflects the history of the universe itself. Both projects below are about dark matter: in one I studied the structure that dark matter builds, and in the other I looked into an idea about what dark matter might be – black holes left over from the first moments after the Big Bang.
 
@@ -97,8 +97,8 @@ I looked at ten observational constraints in the published literature. Each cons
 
 #### What I found
 
-- Under the **most restrictive** envelope of constraints, cumulative $f_{PBH}$ converges to **0.305** -- up to $\sim30.5\%$ of dark matter could reside in primordial black holes with masses between $10^{-6}$ and $10 M_\odot$.
-- Under the **least restrictive** envelope, that proportion expands roughly threefold, to about **94%**.
+- Under the **least restrictive** envelope of constraints, cumulative $f_{PBH}$ converges to **0.90** -- up to $\sim90\%$ of dark matter could reside in primordial black holes with masses between $10^{-6}$ and $10 M_\odot$.
+- Under the **most restrictive** envelope, that proportion falls roughly to a third, to about **30%**.
 
 The result is consistent with reviews such as Arbey (2024): certain mass ranges are more promising than others, and it remains unlikely that PBHs account for all dark matter across all mass ranges. Within current constraints, though, they remain viable candidates. Narrowing this down would take more observational limits and a more precise method than mine.
 
